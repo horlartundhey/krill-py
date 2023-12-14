@@ -1,0 +1,5279 @@
+/* Max width 767px */
+@media only screen and (max-width: 991px) {
+
+    p {
+        font-size: 14px;
+        margin-bottom: 12px;
+    }
+    body {
+        font-size: 14px;
+    }
+    .default-btn {
+        font-size: 14px;
+        padding: 12px 22px;
+    }
+    .pb-75 {
+        padding-bottom: 35px;
+    }
+    .pt-100 {
+        padding-top: 60px;
+    }
+    .pb-100 {
+        padding-bottom: 60px;
+    }
+    .ptb-100 {
+        padding-top: 60px;
+        padding-bottom: 60px;
+    }
+    
+    
+    .section-title {
+        h2 {
+            font-size: 20px;
+            margin-bottom: 10px;
+        }
+    }
+    .single-section {
+        h2 {
+            font-size: 20px;
+            margin-bottom: 12px;
+        }
+    }
+    .responsive-image {
+        display: block;
+    }
+    .section-warp {
+        .single-section h2 {
+            font-size: 22px;
+        }
+    }
+
+    /*
+    Container Style
+    ======================================================*/
+    .container-fluid {
+        max-width: 540px;
+        &.style3 {
+            max-width: 540px;
+        }
+        &.style4 {
+            max-width: 540px;
+        }
+        &.style6 {
+            max-width: 540px;
+        }
+    }
+    .management-warp {
+        .container {
+            max-width: 540px;
+        }
+    }
+
+    /*
+    Hero Warp  Style
+    ======================================================*/
+    .hero-style1-warp {
+        padding-bottom: 0px;
+        padding-top: 160px;
+        .hero-shape1 {
+            display: none;
+        }
+        .hero-shape2 {
+            display: none;
+        }
+        .hero-shape3 {
+            display: none;
+        }
+        .hero-shape4 {
+            display: none;
+        }
+        .hero-shape5 {
+            display: none;
+        }
+    }
+    .hero-style1-content {
+        padding-right: 0;
+        margin-bottom: 40px;
+        .title {
+            font-size: 14px;
+        }
+        h1 {
+            font-size: 26px;
+            margin-bottom: 12px;
+            .content-shape1 {
+                display: none;
+            }
+        }
+        .hero-style1-btn {
+            margin-top: 12px;
+            margin-bottom: 25px;
+            display: inline-block !important;
+            .hero-service-btn {
+                margin-left: 0;
+                margin-top: 20px;
+                display: flex;
+                padding-left: 40px;
+                i {
+                    font-size: 33px;
+                }
+            }
+        }
+    }
+    .hero-style1-image {
+        padding-bottom: 0;
+        display: none;
+        .small2 {
+            display: none;
+        }
+        .small4 {
+            display: none;
+        }
+        .hero1 {
+            margin-left: 0;
+        }
+        .small3 {
+            display: none;
+        }
+        .small1 {
+            display: none;
+        }
+    }
+    .slide-text-warp {
+        height: 100px;
+        .text-slide {
+            height: 35px;
+        }
+    }
+
+    /*
+    Boost Slider Warp  Style
+    ======================================================*/
+    .boost-slider-warp {
+        .boost-shape1 {
+            display: none;
+        }
+        .boost-shape2 {
+            display: none;
+        }
+    }
+    .boost-card {
+        padding: 25px;
+        .icon-content {
+            .rounded-icon {
+                width: 60px;
+                height: 60px;
+                font-size: 28px;
+                line-height: 71px;
+            }
+            margin-bottom: 15px;
+            h3 {
+                font-size: 18px;
+                margin-left: 15px;
+            }
+        }
+        &.style2 {
+            margin-top: 0;
+        }
+        &.style3 {
+            margin-top: 0;
+        }
+    }
+
+    /*
+    Supervise Warp  Style
+    ======================================================*/
+    .supervise-image {
+        margin-right: 0;
+        display: none;
+        padding-right: 10px;
+        margin-bottom: 20px;
+    }
+    .supervise-content {
+        .supervise-list {
+            margin-top: 20px;
+            padding-right: 0;
+            li {
+                .rounded-icon {
+                    width: 55px;
+                    height: 55px;
+                    font-size: 25px;
+                    line-height: 63px;
+                }
+                .content {
+                    margin-left: 15px;
+                    h4 {
+                        font-size: 18px;
+                        margin-bottom: 12px;
+                    }
+                }
+            }
+        }
+    }
+
+    /*
+    Most Warp  Style
+    ======================================================*/
+    .inner-most-warp {
+        padding-left: 25px;
+        padding-right: 25px;
+        padding-top: 25px;
+        .most-image {
+            display: none;
+        }
+        
+    }
+    .most-accordion {
+        margin-bottom: 30px;
+        .accordion-button {
+            font-weight: 500;
+            font-size: 15px;
+        }
+    }
+
+    /*
+    Solution Warp  Style
+    ======================================================*/
+    .solution-image {
+        display: none;
+        .small-solution5 {
+            display: none;
+        }
+        .small-solution4 {
+            position: absolute;
+            bottom: 170px;
+            left: 55px;
+            display: none;
+            z-index: 2;
+            filter: drop-shadow(-10px -10px 40px rgba(20, 31, 57, 0.05));
+        }
+    }
+    .solution-content {
+        padding-top: 60px;
+        padding-bottom: 0;
+        margin-right: 0;
+        .nav-pills {
+            justify-content: center;
+            margin-top: 20px;
+            margin-bottom: 0 !important;
+            .nav-item {
+                padding-right: 15px;
+                margin-bottom: 12px;
+                .nav-link {
+                    padding: 14px 22px;
+                }
+            }
+        }
+        .solution-tab-content {
+            margin-top: 15px;
+            h4 {
+                font-size: 16px;
+                margin-bottom: 12px;
+            }
+            .st-list {
+                margin-top: 15px;
+                li {
+                    padding-left: 30px;
+                    font-size: 13px;
+                    i {
+                        top: -4px;
+                    }
+                }
+            }
+        }
+    }
+    .solution-warp {
+        .solution-shape2 {
+            display: none;
+        }
+    }
+
+    /*
+    Management Warp  Style
+    ======================================================*/
+    .management-warp {
+        .section-warp {
+            margin-bottom: 30px;
+            display: inline-block !important;
+            .section-btn {
+                margin-top: 20px;
+            }
+        }
+    }
+    .horizontal {
+        section {
+            width: auto !important;
+            height: auto !important;
+            margin: 0 0 35px 0;
+            box-shadow: 0px 0px 80px 5px rgba(20, 31, 57, 0.05);
+            border-radius: 10px;
+            h2 {
+                top: 0px;
+                width: auto;
+                left: 0;
+                transform: rotate(0deg);
+            }
+        }
+        &.active{   
+            width: auto !important;
+            height: auto !important;
+            margin: 0 0 35px 0;
+            box-shadow: 0px 0px 80px 5px rgba(20, 31, 57, 0.05);
+            border-radius: 10px;
+            h2{   
+                top: 0px;
+                left: 0;
+                transform: rotate(0deg); 
+            }  
+        }  
+    }
+    .management-accordion {
+        section {
+            padding: 25px;
+            text-align: start;
+            border: solid 1px #F3F7FA;
+            h2 {
+                height: auto;
+                margin-bottom: 20px;
+                display: flex;
+                align-items: center;
+                a {
+                    font-size: 18px;
+                    padding: 0;
+                    margin-left: 15px;
+                }
+                span {
+                    font-size: 22px;
+                    width: 60px;
+                    height: 60px;
+                    line-height: 64px;
+                    transform: unset;
+                }
+            }
+            p {
+                display: block;
+            }
+            .default-btn {
+                background: linear-gradient(95.64deg, #3921F5 0%, #38DA71 100%);
+                padding: 15px 28px;
+                border: none;
+                display: inline-block;
+                position: relative;
+                transition: all ease 0.5s;
+                color: #141F39;
+                margin-top: 10px;
+                &::before {
+                    content: "";
+                    position: absolute;
+                    top: 1px;
+                    left: 1px;
+                    right: 1px;
+                    z-index: -1;
+                    bottom: 1px;
+                    width: 98.5%;
+                    transition: all ease 0.5s;
+                    border-radius: 50px;
+                    background: #ffffff;
+                }
+            }
+            &.active{   
+                padding: 25px;
+                text-align: start;
+                h2 {
+                    height: auto;
+                    margin-bottom: 20px;
+                    display: flex;
+                    align-items: center;
+                    a {
+                        font-size: 18px;
+                        padding: 0;
+                        margin-left: 15px;
+                    }
+                    span {
+                        font-size: 22px;
+                        width: 60px;
+                        height: 60px;
+                        line-height: 64px;
+                        transform: unset;
+                    }
+                }
+            }  
+        }
+        
+    }
+
+    /*
+    Additional Warp  Style
+    ======================================================*/
+    .additional-content {
+        margin-top: 20px;
+        .additional-list {
+            li {
+                .rounded-icon {
+                    width: 55px;
+                    height: 55px;
+                    font-size: 20px;
+                    line-height: 55px;
+                    margin-top: 5px;
+                }
+                .content {
+                    margin-left: 15px;
+                    h4 {
+                        font-size: 16px;
+                        margin-bottom: 12px;
+                    }
+                }
+            }
+        }
+    }
+    .additional-image {
+        display: none;
+    }
+
+    /*
+    Grow Warp  Style
+    ======================================================*/
+    .inner-grow-warp {
+        padding-left: 15px;
+        padding-right: 15px;
+        .section-title {
+            margin-bottom: 20px;
+        }
+        .grow-counter {
+            h2 {
+                font-size: 24px;
+                margin-bottom: 5px;
+            }
+        }
+    }
+
+    /*
+    Video Warp  Style
+    ======================================================*/
+    .video-warp {
+        padding-top: 210px;
+        padding-bottom: 120px;
+    }
+
+    /*
+    Skill Warp  Style
+    ======================================================*/
+    .inner-skill-warp {
+        .skill1 {
+            display: none;
+        }
+        .skill2 {
+            display: none;
+        }
+        .skill3 {
+            display: none;
+        }
+        .skill4 {
+            display: none;
+        }
+        .skill-content {
+            margin-top: 0;
+            margin-bottom: 0;
+        }
+        h1 {
+            font-size: 22px;
+            margin-bottom: 15px;
+        }
+        .skill-btn {
+            margin-top: 25px;
+            .free-btn {
+                padding: 12px 25px;
+                margin-left: 15px;
+            }
+        }
+    }
+
+    /*
+    Footer Warp  Style
+    ======================================================*/
+    .footer-widget {
+        .footer-logo {
+            margin-top: 5px;
+            display: inline-block;
+        }
+        .input-box {
+            margin-bottom: 20px;
+        }
+    }
+    .footer-warp {
+        .col-lg-3 {
+            &:nth-child(2) {
+                .footer-widget {
+                    margin-left: 0;
+                }
+            }
+            &:nth-child(1) {
+                .footer-widget {
+                    margin-right: 0;
+                }
+            }
+            &:nth-child(3) {
+                .footer-widget {
+                    margin-left: 0;
+                }
+            }
+            &:nth-child(4) {
+                .footer-widget {
+                    margin-left: 0;
+                }
+            }
+        }
+    }
+    .copyright-warp {
+        overflow: hidden;
+    }
+    
+    /*
+    Home Page-2 Warp  Style
+    ======================================================*/
+
+    /*
+    Hero Style2 Warp  Style
+    ======================================================*/
+    .hero-style2-warp {
+        padding-top: 190px;
+        padding-bottom: 0;
+        .all-shapes {
+            display: none;
+            .hero-shape2-2 {
+                display: none;
+            }
+            .hero-shape2-3 {
+                display: none;
+            }
+        }
+        .hero-style-main {
+            position: relative;
+        }
+    }
+    .hero-style2-content {
+        margin-bottom: 30px;
+        h1 {
+            font-size: 26px;
+            margin-bottom: 8px;
+        }
+        .input-widget {
+            margin-top: 25px;
+            margin-bottom: 25px;
+            .input-form {
+                .form-control {
+                    font-size: 12px;
+                    padding-left: 20px;
+                }
+            }
+            .default-btn {
+                font-size: 13px;
+                padding: 17px 20px;
+            }
+        }
+        .user-content {
+            display: inline-block !important;
+        }
+        .content {
+            margin-left: 0;
+            margin-top: 15px;
+        }
+    }
+    .hero-style2-image {
+        .hero2-2 {
+            display: none;
+        }
+        .hero2-3 {
+            display: none;
+        }
+        .hero2-1 {
+            display: none;
+        }
+        .hero2-4 {
+            display: none;
+        }
+    }
+
+    /*
+    Features Warp  Style
+    ======================================================*/
+    .partner-features-warp {
+        h5 {
+            font-size: 16px;
+            margin-bottom: 25px;
+        }
+        .inner-partner-warp {
+            padding-top: 25px;
+            padding-bottom: 25px;
+        }
+    }
+
+    /*
+    Support Warp  Style
+    ======================================================*/
+    .support-image {
+        margin-right: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        margin-bottom: 30px;
+        &::before {
+            display: none;
+        }
+    }
+    .support-content {
+        .support-list {
+            &::before {
+                left: 26px;
+                bottom: 145px;
+            }
+            li {
+                padding-left: 70px;
+                margin-bottom: 20px;
+                .icon {
+                    width: 50px;
+                    height: 50px;
+                    font-size: 22px;
+                    line-height: 58px;
+                }
+                .content {
+                    h6 {
+                        font-size: 16px;
+                        margin-bottom: 12px;
+                    }
+                }
+            }
+            
+        }
+    }
+
+    /*
+    Live Chat Warp  Style
+    ======================================================*/
+    .live-chat-warp {
+        margin-top: 0;
+        .live-shape2 {
+            display: none;
+        }
+        .live-shape1 {
+            display: none;
+        }
+        .col-lg-4 {
+            &:nth-child(1) {
+                .chat-card {
+                    margin-right: 0;
+                }
+            }
+            &:nth-child(2) {
+                .chat-card {
+                    margin-left: 0;
+                    margin-right: 0;
+                }
+            }
+            &:nth-child(3) {
+                .chat-card {
+                    margin-left: 0;
+                }
+            }
+        }
+        .chat-icon {
+            display: none;
+        }
+        .inner-live-chat {
+            &::before {
+                display: none;
+            }
+        }
+        .chat-card {
+            padding: 25px;
+            h3 {
+                font-size: 18px;
+                margin-bottom: 12px;
+            }
+        }
+    }
+
+    /*
+    Connecting Warp  Style
+    ======================================================*/
+    .connecting-image {
+        padding-right: 0;
+    }
+    .connecting-content {
+        .content-list {
+            li {
+                margin-bottom: 12px;
+                &:last-child {
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+    .logo-button-warp {
+        .connecting-shape1 {
+            display: none;
+        }
+        .logo-button-list {
+            padding-left: 0;
+            margin-bottom: 0;
+            margin-top: 20px;
+        }
+    }
+
+    /*
+    Vision Warp  Style
+    ======================================================*/
+    .vision-content {
+        margin-right: 0;
+        padding-top: 60px;
+        .vision-list {
+            &::before {
+                left: 27px;
+            }
+            li {
+                padding-left: 65px;
+                margin-bottom: 22px;
+                .icon {
+                    width: 50px;
+                    height: 56px;
+                    font-size: 18px;
+                    line-height: 59px;
+                }
+                .content {
+                    h6 {
+                        font-size: 18px;
+                        margin-bottom: 12px;
+                    }
+                }
+            }
+        }
+    }
+    .vision-image {
+        padding-top: 30px;
+        .vision-shape1 {
+            display: none;
+        }
+    }
+
+    /*
+    Customer Warp  Style
+    ======================================================*/
+    .inner-customer-warp {
+        padding: {
+            top: 25px;
+            bottom: 25px;
+            left: 25px;
+            right: 25px;
+        };
+        .customer-shape3 {
+            display: none;
+        }
+        .customer-shape1 {
+            display: none;
+        }
+        .customer-shape2 {
+            display: none;
+        }
+        .customer-say {
+            .icon-content {
+                .icon {
+                    width: 45px;
+                    height: 45px;
+                    line-height: 43px;
+                }
+                .content {
+                    padding-left: 15px;
+                }
+            }
+            .customer-card-content {
+                padding: 20px 20px;
+            }
+            .customer-card-content {
+                p {
+                    font-size: 14px;
+                }
+            }
+        }
+        .mySwiper {
+            .swiper-slide {
+                .image {
+                    display: none;
+                }
+            }
+        }
+    }
+    .customer-image {
+        margin-bottom: 25px;
+    }
+
+    /*
+    Build Warp  Style
+    ======================================================*/
+    .build-card {
+        border: 1px solid rgba(52, 115, 98, 0.15);
+        border-radius: 10px;
+        padding: 25px;
+        margin-bottom: 25px;
+        transition: all ease 0.5s;
+        position: relative;
+        .price-icon {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            h6 {
+                font-size: 16px;
+                margin-bottom: 25px;
+            }
+            h1 {
+                font-size: 32px;
+            }
+            .icon {
+                width: 65px;
+                height: 65px;
+                font-size: 35px;
+                line-height: 78px;
+            }
+        }
+    }
+    
+    /*
+    Footer Style2 Warp  Style
+    ======================================================*/
+    .footer-warp {
+        .col-lg-3 {
+            &:nth-child(2) {
+                .footer-widget {
+                    &.style2 {
+                        margin-left: 0;
+                    }
+                }
+            }
+            &:nth-child(3) {
+                .footer-widget {
+                    &.style2 {
+                        margin-left: 0;
+                    }
+                }
+            }
+            &:nth-child(4) {
+                .footer-widget {
+                    &.style2 {
+                        margin-left: 0;
+                        margin-right: 0;
+                    }
+                }
+            }
+        }
+    }
+    .inner-copyright-warp {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        display: inline-block !important;
+        p {
+            margin-bottom: 20px;
+        }
+    }
+
+    /*
+    Home Page-3 Warp  Style
+    ======================================================*/
+
+    /*
+    Middle Hero Warp  Style
+    ======================================================*/
+    .middle-hero-warp {
+        &::before {
+            display: none;
+        }
+        .hero3-shape1 {
+            display: none;
+        }
+        .hero3-shape2 {
+            display: none;
+        }
+    }
+    .middle-hero-content {
+        margin-top: 60px;
+        margin-bottom: 30px;
+        h2 {
+            font-size: 26px;
+            margin-bottom: 12px;
+        }
+        p {
+            margin-bottom: 20px;
+        }
+        .default-btn {
+            &.style3 {
+                margin-left: 0;
+                margin-top: 20px;
+            }
+        }
+    }
+    .middle-banner-bg {
+        .middle-banner2 {
+            display: none;
+        }
+        .hero3-shape4 {
+            display: none;
+        }
+        margin-bottom: 60px;
+        padding: {
+            top: 20px;
+            bottom: 0;
+            left: 10px;
+            right: 10px;
+        };
+        
+        .middle-banner3 {
+            display: none;
+        }
+    }
+
+    /*
+    Partner Features Warp  Style
+    ======================================================*/
+    .inner-brand-warp {
+        padding-top: 25px;
+        padding-bottom: 25px;
+        .brand-logo {
+            padding-top: 25px;
+            padding-bottom: 25px;
+        }
+    }
+
+    /*
+    Control Warp  Style
+    ======================================================*/
+    .control-warp {
+        padding-bottom: 60px;
+        margin-bottom: 0;
+        .control-bg1 {
+            display: none;
+        }
+        .section-title {
+            margin-bottom: 10px;
+            h2 {
+                font-size: 21px;
+            }
+        }
+        .control-nav-pills {
+            padding-left: 0;
+            padding-right: 0;
+            margin-bottom: 30px !important;
+            .nav-link {
+                font-size: 14px;
+            }
+        }
+        .control-tab-content {
+            padding: 25px;
+        }
+    }
+    .control-content {
+        padding-right: 0;
+        margin-bottom: 30px;
+        h3 {
+            font-size: 20px;
+            margin-bottom: 12px;
+        }
+        .control-list {
+            li {
+                margin-bottom: 18px;
+                padding-left: 55px;
+                .icon {
+                    height: 40px;
+                    font-size: 16px;
+                    width: 40px;
+                    line-height: 44px;
+                }
+            }
+        }
+        .control-btn {
+            margin-top: 25px;
+            color: #000;
+        }
+    }
+    .control-image {
+        display: none;
+        .small-control3 {
+            display: none;
+        }
+        .small-control2 {
+            position: absolute;
+            right: 0;
+            top: 0;
+        }
+        .small-control1 {
+            display: none;
+        }
+    }
+
+    /*
+    Goal Warp  Style
+    ======================================================*/
+    .goal-warp {
+        .section-title {
+            h2 {
+                font-size: 20px;
+            }
+        }
+    }
+    .goal-card {
+        padding: 25px;
+        .icon {
+            width: 70px;
+            height: 70px;
+            line-height: 82px;
+            font-size: 34px;
+            margin-bottom: 15px;
+        }
+        h3 {
+            font-size: 18px;
+            margin-bottom: 12px;
+        }
+    }
+
+    /*
+    Overview Warp  Style
+    ======================================================*/
+    .overview-image {
+        display: none;
+    }
+    .overview-content {
+        padding-left: 0;
+        margin-top: 30px;
+        h2 {
+            font-size: 22px;
+            line-height: 1.4;
+            margin-bottom: 25px;
+        }
+        .overview-say {
+            .content {
+                padding-left: 15px;
+            }
+            .user-content {
+                margin-bottom: 15px;
+            }
+            p {
+                font-size: 14px;
+                margin-bottom: 15px;
+            }
+        }
+    }
+
+    /*
+    Simplify Warp  Style
+    ======================================================*/
+    .simplify-content {
+        margin-bottom: 30px;
+        h2 {
+            font-size: 22px;
+            line-height: 1.4;
+            margin-bottom: 15px;
+        }
+        .simplify-widget {
+            .icon {
+                width: 60px;
+                height: 60px;
+                font-size: 25px;
+                line-height: 62px;
+                margin-bottom: 8px;
+            }
+            h6 {
+                font-size: 16px;
+                line-height: 1.4;
+            }
+        }
+        .col-lg-5 {
+            &:nth-child(2) {
+                .simplify-widget {
+                    margin-left: 0;
+                }
+            }
+        }
+    }
+    .simplify-image {
+        display: none;
+    }
+
+    /*
+    Black Choose Warp  Style
+    ======================================================*/
+    .inner-cp-warp {
+        .section-title {
+            h2 {
+                font-size: 25px;
+                line-height: 1.4;
+            }
+        }
+        .cp-card {
+            padding: 25px;
+            h5 {
+                font-size: 18px;
+                margin-bottom: 20px;
+            }
+            h1 {
+                font-size: 35px;
+            }
+            .cp-content {
+                margin-bottom: 20px;
+                padding-bottom: 20px;
+            }
+            .cp-list {
+                margin-bottom: 20px;
+            }
+            .default-btn {
+                padding: 10px 28px;
+            }
+        }
+        
+    }
+
+    /*
+    Easier Warp  Style
+    ======================================================*/
+    .inner-easier-warp {
+        .easier-shape1 {
+            display: none;
+        }
+    }
+    .inner-easier-warp {
+        padding: 25px;
+        margin-bottom: 60px;
+        h2 {
+            font-size: 20px;
+            margin-bottom: 20px;
+        }
+        .easier2 {
+            display: none;
+        }
+        .easier1 {
+            display: none;
+        }
+        .play-store {
+            margin-left: 0;
+            line-height: 1;
+            display: inline-block;
+            margin-top: 15px;
+        }
+    }
+
+    /*
+    Productive Warp  Style
+    ======================================================*/
+    .productive-image {
+        display: none;
+    }
+    .productive-content {
+        padding-left: 0;
+        margin-right: 0;
+        margin-top: 30px;
+        h2 {
+            font-size: 22px;
+            margin-bottom: 15px;
+            line-height: 1.4;
+        }
+        .productive-list {
+            li {
+                margin-bottom: 20px;
+                padding-left: 40px;
+                .icon {
+                    top: 6px;
+                }
+                .content {
+                    h6 {
+                        font-size: 17px;
+                        margin-bottom: 15px;
+                    }
+                }
+            }
+        }
+    }
+
+    /*
+    Black Hero Warp  Style
+    ======================================================*/
+    .black-hero-warp {
+        padding-top: 60px;
+        padding-bottom: 0;
+        .black-hero-shape1 {
+            display: none;
+        }
+        .bh-shape1 {
+            display: none;
+        }
+        .bh-shape2 {
+            display: none;
+        }
+    }
+    .bh-content {
+        margin-top: 0;
+        margin-bottom: 30px;
+        .title {
+            font-size: 14px;
+            margin-bottom: 8px;
+        }
+        h1 {
+            font-size: 24px;
+            margin-right: 0;
+            margin-bottom: 12px;
+            span {
+                margin-right: 0;
+            }
+        }
+        p {
+            margin-right: 0;
+        }
+        .default-btn {
+            margin-top: 10px;
+        }
+    }
+    .bh-image {
+        &::before {
+            display: none;
+        }
+    }
+
+    /*
+    Black Logo Warp  Style
+    ======================================================*/
+    .black-logo-warp {
+        h5 {
+            display: none !important;
+        }
+    }
+
+    /*
+    Private Warp  Style
+    ======================================================*/
+    .private-warp {
+        &::before {
+            display: none;
+        }
+        .private-card {
+            padding: 25px;
+            .icon {
+                margin-bottom: 15px;
+                i {
+                    font-size: 42px;
+                }
+            }
+            h4 {
+                font-size: 18px;
+                margin-bottom: 15px;
+            }
+        }
+    }
+
+    /*
+    Improve Warp  Style
+    ======================================================*/
+    .inner-improve-warp {
+        padding: 20px;
+        .improve-image {
+            margin-right: 0;
+            margin-bottom: 30px;
+        }
+        .improve-content {
+            padding-left: 0;
+            h2 {
+                font-size: 18px;
+            }
+        }
+        .improve-list {
+            margin-top: 25px;
+            li {
+                margin-bottom: 25px;
+                padding-left: 70px;
+                .icon {
+                    width: 50px;
+                    height: 50px;
+                    line-height: 60px;
+                    font-size: 30px;
+                }
+                .content {
+                    h5 {
+                        font-size: 16px;
+                        margin-bottom: 12px;
+                    }
+                }
+            }
+        }
+    }
+
+    /*
+    Counter Warp  Style
+    ======================================================*/
+    .counter-list {
+        display: inline-block;
+        text-align: center;
+        li {
+            display: inline-block;
+            padding-right: 30px;
+            .counter-content {
+                h1 {
+                    font-size: 25px;
+                    margin-bottom: 5px;
+                }
+            }
+        }
+    }
+
+    /*
+    Maximize Warp  Style
+    ======================================================*/
+    .maximize-card {
+        padding: 25px;
+        .content {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            h5 {
+                font-size: 16px;
+                margin-bottom: 15px;
+            }
+            h1 {
+                font-size: 25px;
+            }
+        }
+        .maximize-list {
+            li {
+                padding-left: 22px;
+                margin-bottom: 12px;
+            }
+        }
+        .default-btn {
+            padding: 12px 28px;
+        }
+    }
+
+    /*
+    Subscribe Warp  Style
+    ======================================================*/
+    .inner-subscribe-warp {
+        padding: 25px;
+        .subscribe-content {
+            p  {
+                color: #9EA6AE;
+                margin-bottom: 25px;
+            }
+            h2 {
+                font-size: 18px;
+                margin-bottom: 15px;
+            }
+            .input-box {
+                height: 55px;
+                padding-right: 70px;
+                .form-control {
+                    font-size: 14px;
+                }
+                .subscribe-btn {
+                    padding: 17px;
+                    font-size: 19px;
+                }
+            }
+        }
+    }
+
+    /*
+    Black Choose Warp  Style
+    ======================================================*/
+    .black-choose-content {
+        margin-bottom: 30px;
+        .black-choose-list {
+            margin-bottom: 25px;
+            margin-top: 20px;
+            li {
+                margin-bottom: 12px;
+                padding-left: 24px;
+                font-weight: 600;
+                font-size: 13px;
+                img {
+                    top: 2px;
+                    width: 15px;
+                }
+            }
+        }
+    }
+    .black-choose-image {
+        text-align: center;
+        padding-left: 0;
+        .black-choose-shape1 {
+            display: none;
+        }
+    }
+
+    /*
+    Testimonial Warp  Style
+    ======================================================*/
+    .inner-testimonial-warp {
+        .section-title {
+            margin-bottom: 30px;
+        }
+        .p-0 {
+            padding-right: calc(var(--bs-gutter-x) * .5) !important;
+            padding-left: calc(var(--bs-gutter-x) * .5) !important;
+        }
+    }
+    .testimonial-image {
+        margin-bottom: 25px;
+    }
+    .testimonial-widget {
+        .testimonial-content {
+            padding-left: 0;
+            p {
+                font-size: 14px;
+                margin-bottom: 12px;
+                margin-top: 12px;
+            }
+            i {
+                font-size: 15px;
+            }
+            .name {
+                h6 {
+                    font-size: 15px;
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+    .col-lg-6 {
+        &:nth-child(2) {
+            .testimonial-widget {
+                margin-left: 0;
+            }
+        }
+    }
+
+    /*
+    Analytics Warp  Style
+    ======================================================*/
+    .inner-analytics-warp {
+        padding: 25px;
+        .section-title {
+            margin-bottom: 20px;
+        }
+    }
+    .black-accordion-content {
+        .accordion-item {
+            .accordion-body {
+                padding: 0 12px 10px 0;
+            }
+            .accordion-button {
+                font-size: 14px;
+                line-height: 1.4;
+                padding-left: 0;
+            }
+        }
+    }
+
+    /*
+    Hero Style5 Warp  Style
+    ======================================================*/
+    .hero-style5-warp {
+        padding-top: 160px;
+        padding-bottom: 60px;
+    }
+    .hero-style5-content {
+        margin-bottom: 30px;
+        h1 {
+            font-size: 25px;
+            margin-bottom: 12px;
+        }
+        .hero-btn {
+            margin-top: 8px;
+            margin-bottom: 25px;
+            display: inline-block !important;
+            .video-btn  {
+                margin-left: 0;
+                margin-top: 20px;
+            }
+        }
+        .user-content {
+            display: block !important;
+            .content {
+                margin-left: 0;
+                margin-top: 15px;
+            }
+            .review {
+                margin-left: 0;
+                margin-top: 15px;
+                position: relative;
+            }
+        }
+    }
+    .hero-style5-image {
+        text-align: center;
+    }
+
+    /*
+    Payment Warp  Style
+    ======================================================*/
+    .payment-widget {
+        padding: 25px;
+        .payment {
+            display: none;
+        }
+        .content {
+            h3 {
+                font-size: 16px;
+                margin-bottom: 10px;
+            }
+        }
+    }
+    
+    /*
+    Secure Warp  Style
+    ======================================================*/
+    .secure-content {
+        .secure-list {
+            li {
+                margin-bottom: 20px;
+                padding-left: 70px;
+                .icon {
+                    width: 55px;
+                    height: 55px;
+                    font-size: 30px;
+                    left: 0;
+                    top: 4px;
+                    line-height: 65px;
+                }
+                .content {
+                    h5 {
+                        font-size: 16px;
+                        margin-bottom: 10px;
+                    }
+                }
+            }
+        }
+    }
+    .secure-image {
+        padding-right: 0;
+        margin-bottom: 20px;
+    }
+
+    /*
+    Business Warp  Style
+    ======================================================*/
+    .inner-business-warp {
+        padding: 0 0 35px;
+        margin-bottom: 0;
+    }
+    .business-card {
+        margin-top: 25px;
+        padding: {
+            top: 50px;
+            bottom: 25px;
+            left: 25px;
+            right: 25px;
+        };
+        .icon {
+            width: 70px;
+            height: 70px;
+            font-size: 27px;
+            line-height: 74px;
+            top: -30px;
+        }
+    }
+
+    /*
+    Video Warp  Style
+    ======================================================*/
+    .video-style5-warp {
+        padding-top: 150px;
+        padding-bottom: 150px;
+    }
+
+    /*
+    Profile Warp  Style
+    ======================================================*/
+    .profile-content {
+        padding-right: 0;
+        padding-top: 60px;
+    }
+    .profile-box {
+        text-align: center;
+        margin-bottom: 25px;
+        .icon {
+            width: 60px;
+            height: 60px;
+            font-size: 30px;
+            line-height: 68px;
+            margin-bottom: 15px;
+            margin: {
+                left: auto;
+                right: auto;
+            };
+        }
+    }
+    .profile-image {
+        margin-top: 0;
+        margin-left: 0;
+    }
+
+    /*
+    Finance Warp  Style
+    ======================================================*/
+    .finance-card {
+        padding: 25px;
+        h5 {
+            font-size: 16px;
+            margin-bottom: 15px;
+        }
+        h1 {
+            font-size: 30px;
+        }
+        .finance-content {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+        }
+        .finance-list {
+            margin-bottom: 20px;
+        }
+    }
+
+    /*
+    Revolution Warp  Style
+    ======================================================*/
+    .revolution-warp {
+        .revolution-shape1 {
+            display: none;
+        }
+    }
+    .revolution-image {
+        padding-right: 0;
+        margin-bottom: 25px;
+    }
+    .revolution-content {
+        margin-left: 0;
+        .store-btn {
+            margin-top: 20px;
+        }
+    }
+
+    /*
+    Benefit Warp  Style
+    ======================================================*/
+    .benefit-card {
+        padding: 25px;
+        margin-bottom: 25px;
+        display: inline-block !important;
+        .content {
+            margin-bottom: 30px;
+            p {
+                margin-bottom: 20px;
+                padding-bottom: 20px;
+            }
+            .name-review {
+                .name {
+                    h6 {
+                        font-size: 16px;
+                        margin-bottom: 6px;
+                    }
+                }
+                i {
+                    color: #FFC107;
+                    font-size: 16px;
+                }
+            }
+        }
+    }
+
+    /*
+    Digital Warp  Style
+    ======================================================*/
+    .inner-digital-warp {
+        padding: 25px ;
+        .digital-content {
+            margin-right: 0;
+            h2 {
+                font-size: 18px;
+                line-height: 1.4;
+                margin-bottom: 15px;
+            }
+            .digital-widget {
+                display: inline-block !important;
+                .digital-list {
+                    &:last-child {
+                        margin-left: 0;
+                        margin-top: 6px;
+                    }
+                }
+            }
+        }
+    }
+    .digital-image {
+        margin-top: 20px;
+        .digital1-image2 {
+            display: none;
+        }
+        .default-btn {
+            margin-right: auto;
+            margin-left: auto;
+            &.home-five-main {
+                margin-bottom: 20px;
+            }
+        }
+    }
+
+    /*
+    Footer Style5 Warp  Style
+    ======================================================*/
+    .footer-warp {
+        .col-lg-3 {
+            &:nth-child(1) {
+                .footer-widget {
+                    &.style5 {
+                        margin-right: 0;
+                    }
+                }
+            }
+            &:nth-child(2) {
+                .footer-widget {
+                    &.style5 {
+                        margin-left: 0;
+                    }
+                }
+            }
+            &:nth-child(3) {
+                .footer-widget {
+                    &.style5 {
+                        margin-left: 0;
+                    }
+                }
+            }
+            &:nth-child(4) {
+                .footer-widget {
+                    &.style5 {
+                        margin-left: 0;
+                    }
+                }
+            }
+        }
+    }
+
+
+
+    /*
+    Home Page 6 Warp  Style
+    ======================================================*/
+
+    /*
+    Hero Style6 Warp  Style
+    ======================================================*/
+    .hero-style6-warp {
+        margin-top: 0;
+    }
+    .hero-style6-content {
+        margin-top: 0;
+        padding-top: 60px;
+        h1 {
+            font-size: 25px;
+            margin-bottom: 12px;
+            span {
+                margin-right: 0;
+            }
+        }
+        .hero-store {
+            margin-top: 25px;
+            margin-bottom: 30px;
+        }
+        .user-content {
+            display: inline-block !important;
+            .content {
+                margin-left: 0;
+                margin-top: 15px;
+            }
+            .review {
+                margin-left: 0;
+                margin-top: 15px;
+                position: relative;
+            }
+        }
+    }
+    .hero-style6-image {
+        text-align: center;
+        padding-top: 25px;
+        .hero8 {
+            margin-right: 0;
+        }
+    }
+
+    /*
+    Features Warp  Style
+    ======================================================*/
+    .features-warp {
+        .section-title {
+            margin-bottom: 20px;
+        }
+    }
+    .features-box {
+        .icon {
+            width: 60px;
+            height: 60px;
+            font-size: 30px;
+            line-height: 68px;
+            margin-bottom: 12px;
+        }
+        h3 {
+            font-size: 18px;
+            margin-bottom: 10px;
+        }
+        
+        
+    }
+
+    /*
+    Assistant Warp  Style
+    ======================================================*/
+    .assistant-image {
+        margin-right: 0;
+        margin-bottom: 20px;
+    }
+    .assistant-content {
+        .assistant-list {
+            margin-top: 22px;
+            li {
+                padding-left: 70px;
+                margin-bottom: 22px;
+                .icon {
+                    width: 50px;
+                    height: 50px;
+                    font-size: 18px;
+                    line-height: 52px;
+                }
+                h6 {
+                    font-size: 18px;
+                    margin-bottom: 10px;
+                }
+            }
+        }
+    }
+
+    /*
+    Accordion Warp  Style
+    ======================================================*/
+    .accordion-content {
+        .accordion-item {
+            margin-bottom: 20px;
+            .accordion-button {
+                font-size: 15px;
+                padding: {
+                    left: 15px;
+                    top: 12px;
+                    bottom: 12px;
+                };
+                border-radius: 5px;
+                line-height: 1.4;
+            }
+            .accordion-body {
+                padding: 0 15px 15px 15px;
+            }
+        }
+    }
+
+    /*
+    Funfact Warp  Style
+    ======================================================*/
+    .fun-fact-warp {
+        &::before {
+            display: none;
+        }
+    }
+    .inner-fun-fact {
+        padding: {
+            top: 25px;
+            bottom: 0;
+            right: 25px;
+            left: 25px;
+        };
+    }
+    .fun-fact-widget {
+        display: inline-block !important;
+        li {
+            display: inline-block;
+            padding-right: 20px;
+            &:last-child {
+                padding-right: 0;
+            }
+            h1 {
+                font-size: 25px;
+                margin-bottom: 5px;
+            }
+            p {
+                font-size: 12px;
+            }
+        }
+    }
+
+    /*
+    Effective Warp  Style
+    ======================================================*/
+    .effective-content {
+        margin-bottom: 30px;
+        .effective-list {
+            margin-bottom: 25px;
+            margin-top: 15px;
+            li {
+                span {
+                    padding-right: 0;
+                }
+            }
+        }
+    }
+
+    /*
+    Download Warp  Style
+    ======================================================*/
+    .inner-download {
+        padding: 25px;
+        .download-content {
+            h2 {
+                font-size: 18px;
+                margin-bottom: 15px;
+            }
+            p {
+                margin-bottom: 20px;
+            }
+        }
+    }
+
+    /*
+    Stand Warp  Style
+    ======================================================*/
+    .inner-stand-warp {
+        padding: 25px;
+        display: inline-block !important;
+        text-align: center;
+        .content {
+            h2 {
+                font-size: 18px;
+                line-height: 1.4;
+                margin-bottom: 22px;
+            }
+        }
+    }
+
+    /*
+    Footer Style6 Warp  Style
+    ======================================================*/
+    .footer-warp {
+        overflow: hidden;
+    }
+
+
+    /*
+    About Warp  Style
+    ======================================================*/
+    .about-hero-warp {
+        padding-top: 190px;
+        .about-hero-content {
+            h1 {
+                font-size: 26px;
+            }
+            p {
+                font-size: 13px;
+            }
+        }
+    }
+    .logo-slider {
+        text-align: center;
+    }
+    .about-content {
+        margin-bottom: 30px;
+        h3 {
+            font-size: 20px;
+            margin-bottom: 12px;
+        }
+    }
+
+    /*
+    Global Warp  Style
+    ======================================================*/
+    .global-warp {
+        .global-count {
+            h1 {
+                font-size: 25px;
+                margin-bottom: 12px;
+            }
+        }
+    }
+    .statement-content {
+        padding: 25px;
+        h3 {
+            font-size: 22px;
+            margin-bottom: 12px;
+        }
+        h5 {
+            margin-bottom: 8px;
+            margin-top: 20px;
+        }
+    }
+
+    /*
+    Stand2 Warp  Style
+    ======================================================*/
+    .inner-stand2-warp {
+        padding: 25px;
+        display: block !important;
+        .content {
+            h2 {
+                font-size: 22px;
+                margin-bottom: 15px;
+            }
+            p {
+                margin-bottom: 20px;
+            }
+        }
+    }
+    .about-image {
+        text-align: center;
+    }
+
+    /*
+    Inner Hero Warp  Style
+    ======================================================*/
+    .inner-hero-warp {
+        padding-top: 190px;
+        padding-bottom: 60px;
+        .inner-hero-content {
+            h1 {
+                font-size: 25px;
+            }
+            p {
+                font-size: 13px;
+            }
+        }
+    }
+
+    /*
+    Features Hero Warp  Style
+    ======================================================*/
+    .features-hero-content {
+        margin-bottom: 30px;
+        h2 {
+            font-size: 24px;
+            margin-bottom: 12px;
+        }
+        .title {
+            font-size: 14px;
+            margin-bottom: 10px;
+        }
+        p {
+            font-size: 13px;
+        }
+    }
+    .features-hero-warp {
+        padding-top: 200px;
+        padding-bottom: 60px;
+    }
+
+    /*
+    Features Card Warp  Style
+    ======================================================*/
+    .features-card {
+        padding: 25px;
+    }
+
+    /*
+    Progress Warp  Style
+    ======================================================*/
+    .progress-image {
+        padding-right: 0;
+        padding-bottom: 30px;
+        .features3 {
+            display: none;
+        }
+        .features2 {
+            display: none;
+        }
+    }
+    .approach-content {
+        margin-right: 0;
+        .approach-card {
+            h3 {
+                font-size: 18px;
+                margin-bottom: 10px;
+            }
+            &.style2 {
+                margin-bottom: 25px;
+            }
+        }
+    }
+    .approach-image {
+        padding-left: 0;
+    }
+
+    /*
+    Career Warp  Style
+    ======================================================*/
+    .career-image {
+        text-align: center;
+    }
+    .career-slider {
+        .swiper-slide-active {
+            margin-top: 0;
+        }
+        .swiper-slide {
+            padding-top: 0;
+        }
+    }
+    
+    /*
+    Account Warp  Style
+    ======================================================*/
+    .inner-account-warp {
+        .account-widget {
+            padding: 25px;
+            margin-bottom: 25px;
+            h3 {
+                font-size: 22px;
+                margin-bottom: 15px;
+            }
+            .input-box {
+                .form-control {
+                    height: 45px;
+                }
+            }
+        }
+    }
+    .different-warp {
+        row {
+            display: block !important;
+        }
+        .nav {
+            .nav-link {
+                margin-bottom: 15px;
+                .shape-content {
+                    .career-shape1 {
+                        opacity: 1;
+                        display: none;
+                    }
+                }
+            }
+        }
+        .d-tag {
+            h3 {
+                font-size: 22px;
+                margin-bottom: 28px;
+            }
+        }
+    }
+    .different-content {
+        padding-left: 0;
+        h3 {
+            font-size: 22px;
+            margin-bottom: 15px;
+        }
+    }
+
+    /*
+    Value Warp  Style
+    ======================================================*/
+    .value-image {
+        padding-top: 60px;
+        padding-right: 0;
+        margin-bottom: 30px;
+    }
+    .value-content {
+        margin-left: 0;
+        padding-bottom: 60px;
+        .value-list {
+            margin-top: 20px;
+            li {
+                margin-bottom: 25px;
+                padding-left: 65px;
+                .icon {
+                    width: 50px;
+                    height: 50px;
+                    font-size: 16px;
+                    line-height: 55px;
+                }
+                h5 {
+                    font-size: 16px;
+                }
+            }
+        }
+    }
+
+    /*
+    Opening Warp  Style
+    ======================================================*/
+    .inner-opening-warp {
+        .nav-pills {
+            margin-bottom: 20px !important;
+            margin-top: -20px;
+        }
+        .opening-widget {
+            padding: 30px 15px;
+        }
+        .opening-remote {
+            margin-left: 0;
+            margin-right: 0;
+        }
+        .opening-content {
+            margin-bottom: 20px;
+            h5 {
+                font-size: 16px;
+                margin-bottom: 12px;
+            }
+        }
+        .opening-icon {
+            text-align: start;
+            margin-top: 20px;
+        }
+    }
+
+    .inner-apply-job {
+        .apply-form {
+            padding: 25px;
+            h3 {
+                font-size: 18px;
+                margin-bottom: 12px;
+            }
+            .apply-list {
+                margin-bottom: 25px;
+                li {
+                    padding-left: 25px;
+                    font-size: 13px;
+                    img {
+                        width: 16px;
+                    }
+                }
+            }
+        }
+        .nav-pills {
+            .nav-item {
+                .nav-link {
+                    &:last-child {
+                        margin-top: 8px;
+                    }
+                }
+            }
+        }
+    }
+
+    .inner-backdone {
+        padding: {
+            left: 12px;
+            right: 12px;
+        };
+        .back-image {
+            padding-right: 0;
+            margin-bottom: 20px;
+        }
+        .back-content {
+            margin-left: 0;
+            h3 {
+                font-size: 18px;
+            }
+            .back-list {
+                margin-top: 18px;
+                margin-bottom: 30px;
+                li {
+                    img {
+                        width: 16px;
+                        top: 6px;
+                    }
+                }
+            }
+        }
+    }
+
+    .expert-section {
+        h2 {
+            font-size: 21px;
+        }
+    }
+    .expert-card {
+        .content {
+            padding: 25px 20px;
+            margin-left: 25px;
+            margin-right: 25px;
+            span {
+                font-size: 15px;
+                margin-bottom: 12px;
+            }
+        }
+    }
+
+
+    .inner-stay-loop {
+        padding: 25px;
+        .content {
+            h2 {
+                font-size: 22px;
+                margin-bottom: 17px;
+            }
+            .form-control {
+                display: none;
+            }
+            .input-box {
+                .default-btn {
+                    position: relative;
+                    right: 0;
+                    text-align: center;
+                    bottom: 0;
+                    top: 0;
+                    padding: 15px 25px;
+                }
+            }
+        }
+    }
+
+    .experience-btn {
+        display: none;
+    }
+    .experience-warp {
+        .experience-widget {
+            .experience-content {
+                h2 {
+                    font-size: 20px;
+                    margin-bottom: 0;
+                    line-height: 1.5;
+                }
+            }
+        }
+    }
+
+    .inner-portfolio-details {
+        .category-widget {
+            padding: 25px;
+            margin-left: 0;
+            margin-top: 30px;
+        }
+        .portfolio-big-warp {
+            margin-right: 0;
+        }
+    }
+
+    .blog-big-widget {
+        margin-bottom: 30px;
+        .content {
+            padding-top: 20px;
+            .blog-list {
+                li {
+                    padding-right: 16px;
+                    font-size: 12px;
+                    &::before {
+                        top: 4px;
+                        height: 11px;
+                        width: 1px;
+                    }
+                }
+            }
+            h3 {
+                font-size: 18px;
+                margin-bottom: 10px;
+                line-height: 1.4;
+            }
+        }
+    }
+    .blog-small-widget {
+        .content {
+            padding-top: 20px;
+            .blog-list {
+                li {
+                    padding-right: 16px;
+                    font-size: 12px;
+                    &::before {
+                        top: 4px;
+                        height: 11px;
+                        width: 1px;
+                    }
+                }
+            }
+            h3 {
+                font-size: 18px;
+                margin-bottom: 10px;
+                line-height: 1.4;
+            }
+        }
+    }
+
+    .blog-big-details {
+        .content {
+            .blog-list {
+                li {
+                    padding-right: 8px;
+                    font-size: 13px;
+                    &::before {
+                        display: none;
+                    }
+                }
+            }
+            h3 {
+                font-size: 20px;
+                margin-bottom: 12px;
+            }
+        }
+        .excellent {
+            padding-bottom: 30px;
+        }
+        .comments {
+            margin-top: 30px;
+            h3 {
+                font-size: 22px;
+                margin-bottom: 25px;
+            }
+            .comment-list {
+                margin-bottom: 30px;
+                padding-bottom: 30px;
+                .image-size {
+                    width: 80px;
+                    height: 80px;
+                    .image {
+                        width: 80px;
+                        height: 80px;
+                    }
+                }
+                .comment-content {
+                    margin-left: 15px;
+                    h6 {
+                        font-size: 18px;
+                        margin-bottom: 8px;
+                    }
+                }
+            }
+        }
+    }
+    .blog-small-details {
+        .all-box {
+            padding: 25px;
+        }
+    }
+
+    .contact-content {
+        .contact-widget {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            .icon-style {
+                width: 55px;
+                height: 55px;
+                .icon {
+                    width: 55px;
+                    height: 55px;
+                    line-height: 55px;
+                }
+            }
+            .content {
+                padding-left: 10px;
+                h5 {
+                    font-size: 18px;
+                    margin-bottom: 12px;
+                }
+            }
+        }
+    }
+    .massage-warp {
+        padding: 25px;
+        margin-top: 30px;
+    }
+
+    .blog-small-details {
+        margin-top: 30px;
+    }
+
+    .slide-text-warp {
+        .text-slide {
+            h1 {
+                width: 180%;
+            }
+        }
+    }
+
+
+
+
+}
+
+/* Min width 576px to Max width 767px */
+@media only screen and (min-width: 576px) and (max-width: 767px) {
+
+    /*
+    Hero Warp  Style
+    ======================================================*/
+    .hero-style1-content {
+        margin-bottom: 20px;
+        .hero-style1-btn {
+            margin-top: 20px;
+            margin-bottom: 20px;
+            display: flex !important;
+            .hero-service-btn {
+                margin-left: 20px;
+                margin-top: 0;
+                padding-left: 40px;
+            }
+        }
+    }
+
+    /*
+    Hero Warp  Style
+    ======================================================*/
+    .inner-grow-warp {
+        &::before {
+            display: none;
+        }
+    }
+
+    /*
+    Hero Style2 Warp  Style
+    ======================================================*/
+    .hero-style2-content {
+        .user-content {
+            display: flex !important;
+        }
+        .content {
+            margin-left: 15px;
+            margin-top: 0;
+        }
+        .input-widget {
+            .input-form {
+                max-width: 375px;
+            }
+        }
+    }
+
+    /*
+    Live Chat Warp  Style
+    ======================================================*/
+    .live-chat-warp {
+        .chat-card {
+            padding: 20px;
+            h3 {
+                font-size: 16px;
+            }
+        }
+    }
+    .logo-button-warp {
+        .logo-button-list {
+            li {
+                margin-bottom: 20px;
+                display: inline-block;
+                padding-right: 20px;
+                .logo-btn {
+                    h6 {
+                        font-size: 18px;
+                    }
+                }
+            }
+        }
+    }
+
+    /*
+    Customer Warp  Style
+    ======================================================*/
+    .inner-customer-warp {
+        .mySwiper {
+            .swiper-slide {
+                .image {
+                    display: block ;
+                }
+            }
+        }
+    }
+    .customer-say-warp {
+        .swiper-btn {
+            left: 56%;
+            bottom: auto;
+            top: -75%;
+        }
+    }
+
+    /*
+    Middle Warp  Style
+    ======================================================*/
+    .middle-hero-content {
+        .default-btn {
+            &.style3 {
+                margin-left: 20px;
+                margin-top: 0;
+            }
+        }
+    }
+
+    /*
+    Control Warp  Style
+    ======================================================*/
+    .control-warp {
+        .control-nav-pills {
+            justify-content: center;
+            .nav-link {
+                font-size: 13px;
+            }
+        }
+        .control-tab-content {
+            padding: 40px;
+        }
+    }
+
+    /*
+    Simplify Warp  Style
+    ======================================================*/
+    .simplify-content {
+        .simplify-btn {
+            margin-top: 0;
+        }
+    }
+
+    /*
+    Easier Warp  Style
+    ======================================================*/
+    .inner-easier-warp {
+        .play-store {
+            margin-left: 20px;
+            margin-top: 0;
+        }
+    }
+
+    /*
+    Testimonial Warp  Style
+    ======================================================*/
+    .testimonial-image {
+        margin-bottom: 0;
+    } 
+
+    /*
+    CopyRight Warp  Style
+    ======================================================*/
+    .inner-copyright-warp {
+        display: flex !important;
+        p {
+            margin-bottom: 0;
+        }
+    }
+
+    /*
+    Hero Warp  Style
+    ======================================================*/
+    .hero-style5-content {
+        .hero-btn {
+            margin-top: 8px;
+            margin-bottom: 25px;
+            display: flex !important;
+            .video-btn {
+                margin-left: 20px;
+                margin-top: 0;
+            }
+        }
+        .user-content {
+            display: flex !important;
+            .content {
+                margin-left: 20px;
+                margin-top: 0;
+            }
+            .review {
+                margin-left: 60px;
+                margin-top: 0;
+                position: relative;
+            }
+        }
+    }
+
+    /*
+    Payment Warp  Style
+    ======================================================*/
+    .payment-widget {
+        .payment {
+            display: block;
+            width: 100px;
+        }
+    }
+
+    /*
+    Business Warp  Style
+    ======================================================*/
+    .business-card {
+        .content {
+            h3 {
+                font-size: 18px;
+            }
+        }
+    }
+
+    /*
+    Benefit Warp  Style
+    ======================================================*/
+    .benefit-card {
+        padding: 25px;
+        margin-bottom: 25px;
+        display: flex !important;
+        .content {
+            max-width: 325px;
+            padding-right: 30px;
+        }
+    }
+
+    /*
+    Digital Warp  Style
+    ======================================================*/
+    .digital-image {
+        text-align: start;
+        .default-btn {
+            display: inline-block;
+            &.home-five-main {
+                margin-bottom: 0;
+                margin-right: 20px;
+            }
+        }
+    }
+
+    /*
+    Hero Style6 Warp  Style
+    ======================================================*/
+    .hero-style6-content {
+        .user-content {
+            display: flex !important;
+            .content {
+                margin-left: 15px;
+                margin-top: 0;
+            }
+            .user {
+                li {
+                    margin-left: -30px;
+                }
+            }
+            .review {
+                margin-left: 50px;
+                margin-top: 0;
+            }
+        }
+    }
+
+    /*
+    Fun Fact Warp  Style
+    ======================================================*/
+    .fun-fact-widget {
+        li {
+            display: inline-block;
+            padding-right: 18px;
+        }
+    }
+
+    /*
+    Career Warp  Style
+    ======================================================*/
+    .career-image {
+        text-align: center;
+    }
+    .career-slider {
+        .swiper-slide-active {
+            margin-top: -80px;
+        }
+        .swiper-slide {
+            padding-top: 80px;
+        }
+    }
+
+
+}
+
+/* Min width 768px to Max width 991px */
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+    
+
+    /*
+    Container Style
+    ======================================================*/
+    .container-fluid {
+        max-width: 720px;
+        &.style3 {
+            max-width: 720px;
+        }
+        &.style4 {
+            max-width: 720px;
+        }
+        &.style6 {
+            max-width: 720px;
+        }
+    }
+
+    /*
+    Section Title Style
+    ======================================================*/
+    .section-title {
+        h2 {
+            font-size: 32px;
+            margin-bottom: 10px;
+        }
+    }
+    .single-section {
+        h2 {
+            font-size: 32px;
+            margin-bottom: 12px;
+        }
+    }
+
+    /*
+    Hero Style1 Style
+    ======================================================*/
+    .hero-style1-content {
+        margin-bottom: 0;
+        .title {
+            font-size: 15px;
+        }
+        h1 {
+            font-size: 34px;
+        }
+        .hero-style1-btn {
+            margin-top: 20px;
+            margin-bottom: 20px;
+            display: flex !important;
+            .hero-service-btn {
+                margin-left: 20px;
+                margin-top: 0;
+                padding-left: 40px;
+            }
+        }
+    }
+
+    /*
+    Most Style
+    ======================================================*/
+    .most-accordion {
+        margin-bottom: 30px;
+        max-width: 100%;
+    }
+
+    /*
+    Horizontal Style
+    ======================================================*/
+    .horizontal section {
+        width: 46%!important;
+        margin: 0 25px 35px 0;
+    }
+    .management-warp {
+        .container {
+            max-width: 720px;
+        }
+    }
+
+    /*
+    Hero Style2 Style
+    ======================================================*/
+    .hero-style2-content {
+        h1 {
+            font-size: 32px;
+            margin-bottom: 8px;
+        }
+        .input-widget {
+            .input-form {
+                max-width: 475px;
+            }
+        }
+        .user-content {
+            display: flex !important;
+        }
+        .content {
+            margin-left: 15px;
+            margin-top: 0;
+        }
+    }
+
+    /*
+    Support Style
+    ======================================================*/
+    .support-content {
+        .support-list {
+            &::before {
+                left: 33px;
+            }
+            li {
+                padding-left: 92px;
+                margin-bottom: 30px;
+                .icon {
+                    width: 67px;
+                    height: 74px;
+                    font-size: 36px;
+                    line-height: 80px;
+                }
+                .content {
+                    h6 {
+                        font-size: 20px;
+                    }
+                }
+            }
+        }
+    }
+
+    /*
+    Logo Warp Style
+    ======================================================*/
+    .logo-button-warp {
+        .logo-button-list {
+            li {
+                margin-bottom: 20px;
+                display: inline-block;
+                padding-right: 20px;
+                .logo-btn {
+                    h6 {
+                        font-size: 18px;
+                    }
+                }
+            }
+        }
+    }
+
+    /*
+    Vision Warp Style
+    ======================================================*/
+    .vision-image {
+        text-align: center;
+    }
+
+    /*
+    Customer Warp  Style
+    ======================================================*/
+    .inner-customer-warp {
+        padding: {
+            top: 50px;
+            bottom: 50px;
+            left: 50px;
+            right: 50px;
+        };
+        .customer-say {
+            .customer-card-content {
+                padding: 30px 30px;
+                p {
+                    font-size: 18px;
+                }
+            }
+        }
+        .mySwiper {
+            .swiper-slide {
+                .image {
+                    display: block ;
+                }
+            }
+        }
+    }
+    .customer-say-warp {
+        .swiper-btn {
+            left: 50%;
+            bottom: auto;
+            top: -63%;
+        }
+    }
+
+    /*
+    Middle Warp  Style
+    ======================================================*/
+    .middle-hero-content {
+        h2 {
+            font-size: 32px;
+            margin-bottom: 12px;
+        } 
+        .default-btn {
+            &.style3 {
+                margin-left: 20px;
+                margin-top: 0;
+            }
+        }
+    }
+
+    /*
+    Control Warp  Style
+    ======================================================*/
+    .control-warp {
+        .control-nav-pills {
+            justify-content: center;
+            .nav-link {
+                font-size: 15px;
+            }
+        }
+        .section-title {
+            h2 {
+                font-size: 32px;
+            }
+        }
+        .control-tab-content {
+            padding: 40px;
+        }
+    }
+    .control-content {
+        .control-list {
+            li {
+                margin-bottom: 35px;
+                padding-left: 80px;
+                .icon {
+                    height: 60px;
+                    font-size: 21px;
+                    width: 60px;
+                    line-height: 58px;
+                }
+            }
+        }
+        .control-btn {
+            margin-top: 40px;
+            color: #000;
+        }
+    }
+
+    /*
+    Goal Warp  Style
+    ======================================================*/
+    .goal-warp {
+        .section-title {
+            h2 {
+                font-size: 32px;
+            }
+        }
+    }
+
+    /*
+    Overview Warp  Style
+    ======================================================*/
+    .overview-content {
+        h2 {
+            font-size: 32px;
+            line-height: 1.4;
+            margin-bottom: 25px;
+        }
+    }
+
+    /*
+    Simplify Warp  Style
+    ======================================================*/
+    .simplify-content {
+        h2 {
+            font-size: 32px;
+            line-height: 1.4;
+            margin-bottom: 15px;
+        }
+        p {
+            margin-bottom: 25px;
+        }
+        .simplify-widget {
+            .icon {
+                width: 80px;
+                height: 80px;
+                font-size: 30px;
+                line-height: 80px;
+                margin-bottom: 20px;
+            }
+        }
+    }
+
+    /*
+    Easier Warp  Style
+    ======================================================*/
+    .inner-easier-warp {
+        padding: 50px;
+        margin-bottom: 60px;
+        h2 {
+            font-size: 32px;
+            margin-bottom: 30px;
+        }
+        .play-store {
+            margin-left: 25px;
+            margin-top: 0;
+        }
+    }
+
+    /*
+    Black Hero Warp  Style
+    ======================================================*/
+    .bh-content {
+        .title {
+            font-size: 16px;
+            margin-bottom: 12px;
+        }
+        h1 {
+            font-size: 32px;
+            margin-right: 0;
+            margin-bottom: 12px;
+        }
+    }
+
+    /*
+    Improve Warp  Style
+    ======================================================*/
+    .inner-improve-warp {
+        padding: 50px;
+    }
+
+    /*
+    Counter Warp  Style
+    ======================================================*/
+    .counter-list {
+        display: flex;
+        text-align: center;
+    }
+
+    /*
+    Subscribe Warp  Style
+    ======================================================*/
+    .inner-subscribe-warp {
+        padding: 50px;
+        .subscribe-content {
+            h2 {
+                font-size: 32px;
+                margin-bottom: 15px;
+            }
+        }
+    }
+
+    /*
+    CopyRight Warp  Style
+    ======================================================*/
+    .inner-copyright-warp {
+        display: flex !important;
+        p {
+            margin-bottom: 0;
+        }
+    }
+
+    /*
+    Hero Warp  Style
+    ======================================================*/
+    .hero-style5-content {
+        .hero-btn {
+            margin-top: 8px;
+            margin-bottom: 25px;
+            display: flex !important;
+            .video-btn {
+                margin-left: 20px;
+                margin-top: 0;
+            }
+        }
+        .user-content {
+            display: flex !important;
+            .content {
+                margin-left: 20px;
+                margin-top: 0;
+            }
+            .review {
+                margin-left: 60px;
+                margin-top: 0;
+                position: relative;
+            }
+        }
+    }
+
+    /*
+    Payment Warp  Style
+    ======================================================*/
+    .payment-widget {
+        padding: 85px 40px;
+        .content {
+            h3 {
+                font-size: 20px;
+            }
+        }
+        .payment {
+            display: block;
+        }
+    }
+
+    /*
+    Secure Warp  Style
+    ======================================================*/
+    .secure-content {
+        .secure-list {
+            li {
+                margin-bottom: 35px;
+                padding-left: 95px;
+                .icon {
+                    width: 70px;
+                    height: 70px;
+                    font-size: 36px;
+                    line-height: 77px;
+                }
+            }
+        }
+    }
+
+    /*
+    benefit Warp  Style
+    ======================================================*/
+    .benefit-card {
+        display: flex !important;
+        .content {
+            max-width: 430px;
+        }
+    }
+
+    /*
+    Hero Style6 Warp  Style
+    ======================================================*/
+    .hero-style6-content {
+        .user-content {
+            display: flex !important;
+            .content {
+                margin-left: 15px;
+                margin-top: 0;
+            }
+            .user {
+                li {
+                    margin-left: -30px;
+                }
+            }
+            .review {
+                margin-left: 70px;
+                margin-top: 0;
+            }
+        }
+        h1 {
+            font-size: 32px;
+            margin-bottom: 12px;
+        }
+    }
+
+    /*
+    Assistant Warp  Style
+    ======================================================*/
+    .assistant-content {
+        .assistant-list {
+            li {
+                margin-bottom: 30px;
+                padding-left: 95px;
+                .icon {
+                    width: 70px;
+                    height: 70px;
+                    font-size: 20px;
+                    line-height: 70px;
+                }
+            }
+        }
+    }
+
+    /*
+    Fun fact Warp  Style
+    ======================================================*/
+    .inner-fun-fact {
+        padding-top: 50px;
+        padding-bottom: 30px;
+        padding-left: 50px;
+        padding-right: 50px;
+    }
+    .fun-fact-widget {
+        display: flex !important;
+    }
+
+    /*
+    Download Warp  Style
+    ======================================================*/
+    .inner-download {
+        padding: 60px;
+        .download-content {
+            h2 {
+                font-size: 32px;
+                margin-bottom: 15px;
+            }
+        }
+    }
+
+    /*
+    Stand Warp  Style
+    ======================================================*/
+    .inner-stand-warp {
+        padding: 45px;
+        display: flex !important;
+        text-align: center;
+        .content {
+            max-width: 400px;
+            text-align: start;
+        }
+    }
+
+    /*
+    Features Warp  Style
+    ======================================================*/
+    .features-hero-content {
+        max-width: 100%;
+        h2 {
+            font-size: 35px;
+        }
+    }
+
+    /*
+    Account Warp  Style
+    ======================================================*/
+    .inner-account-warp {
+        .account-widget {
+            padding: 50px;
+            margin-bottom: 25px;
+            h3 {
+                font-size: 25px;
+                margin-bottom: 15px;
+            }
+            .input-box {
+                .form-control {
+                    height: 55px;
+                }
+            }
+        }
+    }
+
+
+     /*
+    Career Warp  Style
+    ======================================================*/
+    .career-image {
+        text-align: center;
+    }
+    .career-slider {
+        .swiper-slide-active {
+            margin-top: -80px;
+        }
+        .swiper-slide {
+            padding-top: 80px;
+        }
+    }
+    
+
+}
+
+/* Min width 992px to Max width 1199px */
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+
+
+    .default-btn {
+        padding: 12px 30px;
+        font-size: 14px;
+    }
+    .responsive-image {
+        display: block;
+    }
+    .hero-style1-image {
+        display: none;
+    }
+    .supervise-image {
+        display: none;
+    }
+    .inner-most-warp {
+        .most-image {
+            display: none;
+        }
+    }
+    .solution-image {
+        display: none;
+    }
+    .additional-image {
+        display: none;
+    }
+    p {
+        font-size: 15px;
+    }
+    body {
+        font-size: 15px;
+    }
+
+    /*
+    Container Style
+    ======================================================*/
+    .container-fluid {
+        max-width: 960px;
+        &.style3 {
+            max-width: 960px;
+        }
+        &.style4 {
+            max-width: 960px;
+        }
+        &.style6 {
+            max-width: 960px;
+        }
+    }
+
+    .single-section {
+        h2 {
+            font-size: 28px;
+        }
+    }
+    .section-warp {
+        .single-section {
+            max-width: 765px;
+            h2 {
+                font-size: 28px;
+            }
+        }
+    }
+    
+
+    /*
+    Hero Warp Style
+    ======================================================*/
+    .hero-style1-warp {
+        .hero-shape4 {
+            display: none;
+        }
+    }
+    .hero-style1-content {
+        padding-right: 0;
+        margin-bottom: 40px;
+        h1 {
+            font-size: 35px;
+            margin-bottom: 15px;
+            .content-shape1 {
+                display: none;
+            }
+        }
+        .hero-style1-btn {
+            margin-top: 25px;
+            margin-bottom: 25px;
+        }
+    }
+
+    /*
+    Boost Slider Warp Style
+    ======================================================*/
+    .boost-card {
+        padding: 30px;
+        .icon-content {
+            .rounded-icon {
+                width: 60px;
+                height: 60px;
+                font-size: 30px;
+                line-height: 72px;
+            }
+            h3 {
+                font-size: 18px;
+                margin-left: 15px;
+            }
+        }
+    }
+
+    /*
+    Supervise Warp Style
+    ======================================================*/
+    .supervise-content {
+        .supervise-list {
+            margin-top: 20px;
+            padding-right: 10px;
+            li {
+                margin-bottom: 20px;
+                .rounded-icon {
+                    width: 60px;
+                    height: 60px;
+                    font-size: 27px;
+                    line-height: 68px;
+                    margin-top: 4px;
+                }
+                .content {
+                    h4 {
+                        font-weight: 600;
+                        font-size: 18px;
+                        margin-bottom: 12px;
+                    }
+                }
+            }
+            
+        }
+    }
+
+    /*
+    Most Warp Style
+    ======================================================*/
+    .inner-most-warp {
+        padding: {
+            top: 60px;
+            left: 60px;
+            right: 60px;
+        };
+    }
+    .most-accordion {
+        margin-bottom: 50px;
+        .accordion-button {
+            font-size: 15px;
+        }
+    }
+    
+    /*
+    Solution Warp Style
+    ======================================================*/
+    .solution-content {
+        .nav-pills {
+            .nav-item {
+                padding-right: 20px;
+                .nav-link {
+                    padding: 16px 35px;
+                }
+            }
+        }
+    }
+    .solution-warp {
+        .row {
+            align-items: center;
+        }
+    }
+
+    /*
+    Management Warp Style
+    ======================================================*/
+    .horizontal {
+        section {
+            width: 115px;
+            height: 350px;
+            &.active {
+                width: 270px;
+                height: 350px;
+                padding: 25px;
+                h2 {
+                    span {
+                        font-size: 25px;
+                        width: 60px;
+                        height: 60px;
+                        line-height: 65px;
+                    }
+                    a {
+                        font-size: 18px;
+                        margin-left: 15px;
+                    }
+                }
+            }
+            h2 {
+                width: 350px;
+                left: -115px;
+                top: 137px;
+                height: 125px;
+                span {
+                    font-size: 26px;
+                    width: 60px;
+                    height: 60px;
+                    line-height: 61px;
+                }
+            }
+        }
+    }
+    .management-accordion {
+        section {
+            &.active {
+                h2 {
+                    height: 70px;
+                }
+            }
+        }
+    }
+    .management-warp {
+        .container {
+            max-width: 960px;
+        }
+    }
+
+    /*
+    Additional Warp Style
+    ======================================================*/
+    .additional-warp {
+        .row {
+            align-items: center;
+        }
+    }
+    .additional-content {
+        .additional-list {
+            margin-top: 25px;
+            padding-right: 0;
+            li {
+                margin-bottom: 22px;
+                .content {
+                    margin-left: 15px;
+                    h4 {
+                        font-size: 18px;
+                        margin-bottom: 12px;
+                    }
+                }
+                .rounded-icon {
+                    width: 60px;
+                    height: 60px;
+                    font-size: 20px;
+                    line-height: 60px;
+                    margin-top: 5px;
+                }
+            }
+        }
+    }
+
+    /*
+    Video Warp Style
+    ======================================================*/
+    .video-warp {
+        padding-top: 300px;
+        padding-bottom: 220px;
+    }
+
+    /*
+    Skill Warp Style
+    ======================================================*/
+    .inner-skill-warp {
+        .skill-content {
+            max-width: 570px;
+            margin-top: 60px;
+            margin-bottom: 55px;
+        }
+        h1 {
+            font-size: 35px;
+        }
+    }
+
+    /*
+    Footer Warp Style
+    ======================================================*/
+    .footer-warp {
+        .col-lg-3 {
+            &:nth-child(2) {
+                .footer-widget {
+                    margin-left: 60px;
+                }
+            }
+            &:nth-child(3) {
+                .footer-widget {
+                    margin-left: 15px;
+                }
+            }
+            &:nth-child(4) {
+                .footer-widget {
+                    margin-left: 5px;
+                }
+            }
+        }
+    }
+
+    /*
+    Hero Style2 Warp Style
+    ======================================================*/
+    .hero-style2-warp {
+        padding-top: 280px;
+        padding-bottom: 160px;
+        .hero-style-main {
+            width: 480px;
+        }
+        .all-shapes {
+            .hero-shape2-1 {
+                display: none;
+            }
+            .hero-shape2-2 {
+                display: none;
+            }
+            .hero-shape2-4 {
+                display: none;
+            }
+        }
+    }
+    .hero-style2-content {
+        h1 {
+            font-size: 35px;
+            margin-bottom: 5px;
+            line-height: 1.4;
+        }
+        .input-widget {
+            margin-top: 20px;
+            margin-bottom: 30px;
+        }
+        .input-widget {
+            .default-btn {
+                bottom: 0;
+                padding: 15px 34px;
+            }
+        }
+    }
+    .hero-style2-image {
+        .hero2-4 {
+            top: 403px;
+            left: 0;
+        }
+    }
+
+    /*
+    Support Warp Style
+    ======================================================*/
+    .support-content {
+        .support-list {
+            li {
+                padding-left: 85px;
+                margin-bottom: 25px;
+                .content {
+                    h6 {
+                        font-size: 18px;
+                        margin-bottom: 12px;
+                    }
+                }
+            }
+        }
+    }
+    .support-image {
+        margin-right: 0;
+        padding-top: 0;
+        padding-bottom: 0;
+        &::before {
+            display: none;
+        }
+    }
+
+    /*
+    Live Chat Warp Style
+    ======================================================*/
+    .live-chat-warp {
+        margin-top: 0;
+        .live-shape1 {
+            top: 130px;
+            left: 50px;
+        }
+        .live-shape2 {
+            top: 100px;
+            right: 79px;
+        }
+        .chat-icon {
+            margin-bottom: 80px;
+            .chat-shape1 {
+                bottom: -60px;
+            }
+        }
+        .chat-card {
+            padding: 25px;
+            h3 {
+                font-size: 18px;
+                margin-bottom: 12px;
+            }
+        }
+    }
+
+    /*
+    Connecting Warp Style
+    ======================================================*/
+    .connecting-image {
+        padding-right: 150px;
+    }
+    .logo-button-warp {
+        .connecting-shape1 {
+            left: -175px;
+        }
+        .logo-button-list {
+            list-style: none;
+            padding-left: 0;
+            margin-right: 0;
+            margin-bottom: 0;
+            position: relative;
+            left: -73px;
+            li {
+                width: 200px;
+                .logo-btn {
+                    h6 {
+                        margin-bottom: 0;
+                        margin-left: 12px;
+                        font-size: 16px;
+                    }
+                }
+            }
+        }
+    }
+    .connecting-content {
+        max-width: 500px;
+        .content-list {
+            li {
+                padding-left: 28px;
+                padding-right: 40px;
+                margin-bottom: 12px;
+                &:last-child {
+                    margin-bottom: 0;
+                }
+            }
+        }
+    }
+
+    /*
+    Vision Warp Style
+    ======================================================*/
+    .vision-image {
+        .vision-shape1 {
+            right: 0;
+        }
+    }
+    .vision-content {
+        .vision-list {
+            margin-top: 20px;
+            li {
+                padding-left: 70px;
+                margin-bottom: 18px;
+                .icon {
+                    width: 50px;
+                    height: 54px;
+                    left: 0;
+                    top: 0;
+                    font-size: 17px;
+                    line-height: 55px;
+                }
+                .content {
+                    h6 {
+                        font-size: 18px;
+                        margin-bottom: 10px;
+                    }
+                    p {
+                        font-size: 14px;
+                    }
+                }
+            }
+            &::before {
+                left: 24px;
+            }
+        }
+    }
+
+
+    /*
+    Customer Warp Style
+    ======================================================*/
+    .inner-customer-warp {
+        padding: {
+            top: 80px;
+            bottom: 80px;
+            left: 50px;
+            right: 50px;
+        };
+        .customer-image {
+            padding-right: 125px;
+        }
+        .customer-say {
+            .customer-card-content {
+                p {
+                    color: #F4F4F4;
+                    font-size: 16px;
+                }
+            }
+        }
+        .swiper-btn {
+            bottom: 40px;
+            left: -50%;
+            .swiper-slide {
+                height: 65px;
+                width: 70px !important;
+                .image {
+                    width: 55px;
+                    height: 55px;
+                }
+            }
+            img {
+                width: 55px;
+                height: 55px;
+            }
+        }
+        .customer-shape1 {
+            top: 90px;
+            left: 70px;
+        }
+        .customer-shape3 {
+            top: 65px;
+            right: 50px;
+        }
+    }
+
+    /*
+    Build Warp Style
+    ======================================================*/
+    .build-card {
+        padding: 25px;
+        .price-icon {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            h6 {
+                font-size: 16px;
+                margin-bottom: 15px;
+            }
+            h1 {
+                font-size: 35px;
+                margin-bottom: 0;
+            }
+            .icon {
+                width: 65px;
+                height: 65px;
+                font-size: 32px;
+                line-height: 75px;
+            }
+        }
+        .build-list {
+                margin-bottom: 25px;
+            li {
+                margin-bottom: 10px;
+            }
+        }
+    }
+
+    /*
+    Middle Hero Warp Style
+    ======================================================*/
+    .middle-hero-warp {
+        .hero3-shape1 {
+            display: none;
+        }
+        .hero3-shape2 {
+            display: none;
+        }
+    }
+    .middle-hero-content {
+        margin-top: 100px;
+        h2 {
+            font-size: 40px;
+            margin-bottom: 15px;
+        }
+        p {
+            margin-bottom: 30px;
+        }
+    }
+    
+    /*
+    Control Warp Style
+    ======================================================*/
+    .control-warp {
+        .control-nav-pills {
+            justify-content: center;
+        }
+        .control-tab-content {
+            padding: 50px;
+        }
+    }
+    .control-image {
+        display: none;
+    }
+    .control-content {
+        padding-right: 10px;
+        .control-list {
+            max-width: 100%;
+            margin-top: 20px;
+            li {
+                position: relative;
+                margin-bottom: 20px;
+                padding-left: 75px;
+                p {
+                    font-size: 14px;
+                }
+            }
+        }
+        .control-btn {
+            margin-top: 30px;
+        }
+    }
+
+    /*
+    Goal Warp Style
+    ======================================================*/
+    .goal-card {
+        padding: 20px;
+        .icon {
+            width: 70px;
+            height: 70px;
+            line-height: 80px;
+            font-size: 35px;
+            margin-bottom: 15px;
+        }
+        h3 {
+            font-size: 15px;
+            margin-bottom: 8px;
+        }
+        p {
+            font-size: 13px;
+        }
+    }
+
+    /*
+    Overview Warp Style
+    ======================================================*/
+    .overview-image {
+        display: none;
+    }
+    .overview-content {
+        h2 {
+            font-size: 27px;
+            line-height: 35px;
+            margin-bottom: 25px;
+        }
+        .overview-say {
+            p {
+                font-size: 16px;
+                margin-bottom: 15px;
+            }
+        }
+    }
+
+    /*
+    Simplify Warp Style
+    ======================================================*/
+    .simplify-image {
+        display: none;
+    }
+    .simplify-content {
+        h2 {
+            font-size: 26px;
+            margin-bottom: 10px;
+            line-height: 1.4;
+        }
+        .simplify-widget {
+            max-width: 260px;
+            margin-bottom: 0;
+            .icon {
+                width: 65px;
+                height: 65px;
+                font-size: 28px;
+                line-height: 66px;
+                margin-bottom: 15px;
+            }
+            h6 {
+                font-size: 16px;
+                line-height: 25px;
+            }
+        }
+        .col-lg-5 {
+            &:nth-child(1) {
+                .simplify-widget {
+                    padding-right: 0;
+                }
+            }
+            &:nth-child(2) {
+                .simplify-widget {
+                    margin-left: 0;
+                }
+            }
+        }
+        p {
+            margin-bottom: 20px;
+        }
+    }
+
+    /*
+    Choose Warp Style
+    ======================================================*/
+    .inner-cp-warp {
+        .cp-card {
+            padding: 20px;
+            h5 {
+                font-size: 16px;
+                margin-bottom: 12px;
+            }
+            h1 {
+                font-size: 32px;
+            }
+            .cp-content {
+                margin-bottom: 20px;
+                padding-bottom: 20px;
+            }
+            .cp-list {
+                li {
+                    margin-bottom: 10px;
+                }
+            }
+        }
+    }
+
+    /*
+    Productive Warp Style
+    ======================================================*/
+    .productive-image {
+        position: relative;
+        height: 599px;
+        display: none;
+    }
+    .productive-content {
+        padding-left: 0;
+        margin-right: 0;
+        h2 {
+            font-size: 30px;
+            margin-bottom: 15px;
+            line-height: 1.4;
+        }
+    }
+
+    /*
+    Black Hero Warp Style
+    ======================================================*/
+    .bh-content {
+        h1 {
+            font-size: 35px;
+            margin-right: -78px;
+            span {
+                margin-right: 0;
+            }
+        }
+    }
+    .bh-image {
+        padding-left: 90px;
+    }
+    .black-hero-warp {
+        .bh-shape2 {
+            bottom: 100px;
+            left: 20%;
+        }
+    }
+
+    /*
+    Private Warp Style
+    ======================================================*/
+    .private-card {
+        padding: 25px;
+        .icon {
+            margin-bottom: 12px;
+            i {
+                font-size: 40px;
+            }
+        }
+    }
+
+    /*
+    Improve Warp Style
+    ======================================================*/
+    .inner-improve-warp {
+        padding: 50px 25px;
+        .improve-content {
+            padding-left: 0;
+        }
+        .improve-list {
+            margin-top: 30px;
+            li {
+                margin-bottom: 25px;
+                padding-left: 75px;
+                .icon {
+                    width: 55px;
+                    height: 55px;
+                    line-height: 68px;
+                    font-size: 30px;
+                }
+                .content {
+                    h5 {
+                        font-size: 18px;
+                    }
+                    p {
+                        font-size: 14px;
+                    }
+                }
+            }
+        }
+    }
+
+    /*
+    Counter Warp Style
+    ======================================================*/
+    .counter-list {
+        li {
+            .counter-content {
+                h1 {
+                    font-size: 35px;
+                    margin-bottom: 15px;
+                }
+            }
+        }
+    }
+
+    /*
+    Maximize Warp Style
+    ======================================================*/
+    .maximize-card {
+        padding: 25px;
+        .content {
+            margin-bottom: 20px;
+            padding-bottom: 20px;
+            h5 {
+                font-size: 16px;
+                margin-bottom: 20px;
+            }
+            h1 {
+                font-size: 35px;
+            }
+        }
+        .maximize-list {
+            li {
+                margin-bottom: 12px;
+            }
+        }
+    }
+
+    /*
+    Testimonial Warp Style
+    ======================================================*/
+    .testimonial-widget {
+        .testimonial-content {
+            padding-left: 12px;
+            p {
+                font-size: 14px;
+                margin-bottom: 15px;
+                margin-top: 10px;
+            }
+            .name {
+                h6 {
+                    font-size: 16px;
+                }
+            }
+        }
+    }
+
+    /*
+    Analytics Warp Style
+    ======================================================*/
+    .inner-analytics-warp {
+        padding: 50px 25px;
+    }
+
+    /*
+    Hero Style5 Warp Style
+    ======================================================*/
+    .hero-style5-content {
+        h1 {
+            font-size: 35px;
+        }
+        .hero-btn {
+            margin-top: 25px;
+            margin-bottom: 30px;
+        }
+        .user-content {
+            margin-right: -40px;
+            .user {
+                li {
+                    display: inline-block;
+                    margin-left: -35px;
+                }
+            }
+        }
+    }
+
+    /*
+    Payment Warp Style
+    ======================================================*/
+    .payment-widget {
+        padding: 35px;
+        .content {
+            max-width: 230px;
+        }
+        .payment {
+            width: 150px;
+        }
+    }
+
+    /*
+    Secure Warp Style
+    ======================================================*/
+    .secure-image {
+        padding-right: 20px;
+    }
+    .secure-content {
+        .secure-list {
+            margin-top: 20px;
+            li {
+                margin-bottom: 25px;
+                padding-left: 75px;
+                .icon {
+                    width: 55px;
+                    height: 55px;
+                    font-size: 30px;
+                    line-height: 67px;
+                }
+                .content {
+                    h5 {
+                        font-size: 17px;
+                        margin-bottom: 10px;
+                    }
+                }
+            }
+        }
+    }
+
+    /*
+    Business Warp Style
+    ======================================================*/
+    .inner-business-warp {
+        padding: {
+            top: 70px;
+            bottom: 45px;
+            left: 25px;
+            right: 25px;
+        };
+    }
+    .business-card {
+        margin-top: 25px;
+        padding: {
+            top: 55px;
+            bottom: 25px;
+            left: 20px;
+            right: 20px;
+        };
+        .icon {
+            width: 65px;
+            height: 65px;
+            border: 2px solid #F3F7FA;
+            font-size: 25px;
+            line-height: 64px;
+            top: -30px;
+        }
+        .content {
+            h3 {
+                font-size: 16px;
+                margin-bottom: 12px;
+            }
+        }
+    }
+
+    /*
+    Video Warp Style
+    ======================================================*/
+    .video-style5-warp {
+        padding-top: 330px;
+        padding-bottom: 240px;
+    }
+
+
+    /*
+    Profile Warp Style
+    ======================================================*/
+    .profile-image {
+        margin-left: 0;
+    }
+    .profile-content {
+        padding-right: 0;
+        .profile-widget {
+            margin-top: 20px;
+            .profile-box {
+                .icon {
+                    width: 60px;
+                    height: 60px;
+                    font-size: 30px;
+                    line-height: 69px;
+                    margin-bottom: 12px;
+                }
+                h5 {
+                    font-size: 18px;
+                    margin-bottom: 10px;
+                }
+                p {
+                    font-size: 12px;
+                }
+            }
+        }
+    }
+
+    /*
+    Finance Warp Style
+    ======================================================*/
+    .finance-card {
+        padding: 25px;
+        h5 {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+        h1 {
+            font-size: 35px;
+        }
+        .finance-content {
+            margin-bottom: 22px;
+            padding-bottom: 22px;
+        }
+    }
+
+    /*
+    Revolution Warp Style
+    ======================================================*/
+    .revolution-content {
+        margin-left: 0;
+    }
+
+    /*
+    Benefit Warp Style
+    ======================================================*/
+    .benefit-card {
+        padding: 25px;
+        .content {
+            max-width: 275px;
+            margin-right: 20px;
+            p {
+                margin-bottom: 20px;
+                padding-bottom: 20px;
+                font-size: 14px;
+            }
+        }
+    }
+
+    /*
+    Digital Warp Style
+    ======================================================*/
+    .inner-digital-warp {
+        padding: {
+            top: 50px;
+            bottom: 50px;
+            left: 50px;
+            right: 50px;
+        };
+        .digital-content h2 {
+            font-size: 30px;
+            margin-bottom: 20px;
+        }
+        .digital-image {
+            .digital1-image2 {
+                display: none;
+            }
+        }
+    }
+
+    /*
+    Footer Warp Style
+    ======================================================*/
+    .footer-warp {
+        .col-lg-3 {
+            &:nth-child(2) {
+                .footer-widget {
+                    &.style5 {
+                        margin-left: 75px;
+                    }
+                }
+            }
+            &:nth-child(3) {
+                .footer-widget {
+                    &.style5 {
+                        margin-left: 0;
+                    }
+                }
+            }
+        }
+    }
+    .footer-widget {
+        .footer-logo {
+            margin-top: 0;
+        }
+    }
+
+
+
+    /*
+    Hero Style6 Warp Style
+    ======================================================*/
+    .hero-style6-content {
+        h1 {
+            font-size: 28px;
+            span {
+                margin-right: 0;
+            }
+        }
+        .user-content {
+            margin-right: -80px;
+            .user {
+                li {
+                    margin-left: -35px;
+                }
+            }
+        }
+    }
+    .hero-style6-image {
+        padding-left: 50px;
+        .hero8 {
+            margin-right: 0;
+        }
+    }
+
+    /*
+    Features Warp Style
+    ======================================================*/
+    .features-box {
+        .icon {
+            width: 70px;
+            height: 70px;
+            font-size: 32px;
+            line-height: 85px;
+            margin-bottom: 15px;
+        }
+        h3 {
+            font-size: 20px;
+            margin-bottom: 12px;
+        }
+    }
+
+    /*
+    Assistant Warp Style
+    ======================================================*/
+    .assistant-content {
+        .assistant-list {
+            margin-top: 20px;
+            li {
+                margin-bottom: 20px;
+                padding-left: 65px;
+                .icon {
+                    width: 50px;
+                    height: 50px;
+                    font-size: 18px;
+                    line-height: 55px;
+                }
+                h6 {
+                    font-size: 18px;
+                    margin-bottom: 10px;
+                }
+                p {
+                    font-size: 14px;
+                }
+            }
+        }
+    }
+
+    /*
+    Fun Fact Warp Style
+    ======================================================*/
+    .inner-fun-fact {
+        padding-left: 70px;
+        padding-right: 70px;
+    }
+
+    /*
+    Stand Warp Style
+    ======================================================*/
+    .inner-stand-warp {
+        padding: 80px 50px;
+    }
+    .inner-stand2-warp {
+        padding: 100px 50px;
+    }
+
+    /*
+    Progress Warp Style
+    ======================================================*/
+    .progress-image {
+        padding-right: 50px;
+        padding-bottom: 40px;
+    }
+    .approach-image {
+        padding-left: 20px;
+    }
+
+    /*
+    Compare Warp Style
+    ======================================================*/
+    .compare-card {
+        padding: 20px 12px;
+        h5 {
+            font-size: 18px;
+            margin-bottom: 12px;
+        }
+        h1 {
+            font-size: 32px;
+            margin-bottom: 12px;
+        }
+        .default-btn {
+            padding: 15px 20px;
+        }
+    }
+
+    .different-warp {
+        .nav {
+            .nav-link {
+                .shape-content {
+                    h4 {
+                        font-size: 16px;
+                        padding-right: 0;
+                    }
+                    .shape {
+                        max-width: 200px;
+                    }
+                }
+            }
+        }
+    }
+    .different-content {
+        h3 {
+            font-size: 25px;
+            margin-bottom: 10px;
+        }
+        p {
+            margin-bottom: 15px;
+        }
+        li {
+            margin-bottom: 12px;
+        }
+    }
+
+
+    .value-content {
+        margin-left: -15px;
+        .value-list {
+            margin-top: 20px;
+            li {
+                margin-bottom: 15px;
+                padding-left: 70px;
+                .icon {
+                    width: 50px;
+                    height: 50px;
+                    font-size: 17px;
+                    line-height: 54px;
+                }
+            }
+        }
+        p {
+            font-size: 13px;
+        }
+        h2 {
+            font-size: 24px;
+        }
+    }
+
+    .inner-portfolio-details {
+        .category-widget {
+            padding: 30px;
+        }
+    }
+    .experience-warp {
+        .experience-widget {
+            .experience-content {
+                max-width: 670px;
+            }
+        }
+    }
+   
+    .blog-small-details {
+        .all-box {
+            padding: 25px;
+        }
+    }
+
+
+
+
+}
+
+/* Min width 1200px to Max width 1399px */
+@media only screen and (min-width: 1200px) and (max-width: 1399px) {
+
+    /*
+    Container Style
+    ======================================================*/
+    .container-fluid {
+        max-width: 1140px;
+        &.style3 {
+            max-width: 1140px;
+        }
+        &.style4 {
+            max-width: 1140px;
+        }
+        &.style6 {
+            max-width: 1140px;
+        }
+    }
+    .responsive-image {
+        display: block;
+    }
+
+    /*
+    Hero Style1 Warp Style
+    ======================================================*/
+    .hero-style1-image {
+        display: none;
+    }
+    .hero-style1-content {
+        padding-right: 0;
+        margin-bottom: 0;
+        h1 {
+            font-size: 45px;
+            margin-bottom: 15px;
+            .content-shape1 {
+                display: none;
+            }
+        }
+        .hero-style1-btn {
+            margin-top: 25px;
+            margin-bottom: 25px;
+        }
+    
+    }
+    .hero-style1-warp {
+        .hero-shape4 {
+            display: none;
+        }
+        .hero-shape3 {
+            display: none;
+        }
+    }
+
+    /*
+    Boost Warp Style
+    ======================================================*/
+    .boost-card {
+        padding: 25px;
+    }
+
+    /*
+    Supervise Warp Style
+    ======================================================*/
+    .supervise-image {
+        display: none;
+    }
+
+    /*
+    Most Warp Style
+    ======================================================*/
+    .inner-most-warp {
+        .most-image {
+            display: none;
+        }
+    }
+
+    /*
+    Solution Warp Style
+    ======================================================*/
+    .solution-image {
+        display: none;
+    }
+    .solution-warp {
+        .row {
+            align-items: center;
+        }
+    }
+
+    /*
+    Management Warp Style
+    ======================================================*/
+    .horizontal {
+        section {
+            width: 140px;
+            height: 350px;
+            &.active {
+                width: 345px;
+                height: 350px;
+                padding: 35px;
+                h2 {
+                    span {
+                        font-size: 25px;
+                        width: 60px;
+                        height: 60px;
+                        line-height: 65px;
+                    }
+                    a {
+                        font-size: 18px;
+                        margin-left: 15px;
+                    }
+                }
+            }
+            h2 {
+                width: 350px;
+                left: -115px;
+                top: 137px;
+                height: 125px;
+                span {
+                    font-size: 26px;
+                    width: 60px;
+                    height: 60px;
+                    line-height: 61px;
+                }
+            }
+        }
+    }
+    .management-accordion {
+        section {
+            &.active {
+                h2 {
+                    height: 70px;
+                }
+            }
+        }
+    }
+    .management-warp {
+        .container {
+            max-width: 1140px;
+        }
+    }
+
+    /*
+    Additional Warp Style
+    ======================================================*/
+    .additional-image {
+        display: none;
+    }
+    .additional-warp {
+        .row {
+            align-items: center;
+        }
+    }
+
+    /*
+    Skill Warp Style
+    ======================================================*/
+    .inner-skill-warp {
+        .skill-content {
+            max-width: 770px;
+        }
+        h1 {
+            font-size: 42px;
+            margin-bottom: 15px;
+        }
+    }
+
+    /*
+    Hero Style2 Warp Style
+    ======================================================*/
+    .hero-style2-warp {
+        padding-top: 250px;
+        padding-bottom: 165px;
+        .hero-style-main {
+            max-width: 500px;
+        }
+        .all-shapes {
+            .hero-shape2-1 {
+                display: none;
+            }
+            .hero-shape2-2 {
+                display: none;
+            }
+        }
+    }
+    .hero-style2-content {
+        h1 {
+            font-size: 45px;
+        }
+    }
+
+    /*
+    Live Chat Warp Style
+    ======================================================*/
+    .live-chat-warp {
+        .chat-card {
+            padding: 25px;
+            h3 {
+                font-size: 22px;
+                margin-bottom: 12px;
+            }
+        }
+    }
+
+    /*
+    Connecting Warp Style
+    ======================================================*/
+    .connecting-image {
+        padding-right: 135px;
+    }
+    .logo-button-warp {
+        .connecting-shape1 {
+            left: -159px;
+        }
+        .logo-button-list {
+            padding-left: 0;
+            margin-left: -25px;
+        }
+    }
+    .connecting-content {
+        padding-right: 50px;
+    }
+
+    /*
+    Vision Warp Style
+    ======================================================*/
+    .vision-image {
+        .vision-shape1 {
+            right: 0;
+            bottom: 0;
+        }
+    }
+
+    /*
+    Customer Warp Style
+    ======================================================*/
+    .inner-customer-warp {
+        padding: {
+            left: 60px;
+            right: 60px;
+        };
+    }
+
+    /*
+    Middle Hero Warp Style
+    ======================================================*/
+    .middle-hero-content {
+        max-width: 1000px;
+        margin-top: 120px;
+        h2 {
+            font-size: 45px;
+        }
+    }
+    .middle-hero-warp {
+        .hero3-shape2 {
+            display: none;
+        }
+        .hero3-shape1 {
+            display: none;
+        }
+    }
+
+    /*
+    Control Warp Style
+    ======================================================*/
+    .control-image {
+        display: none;
+    }
+    .control-content {
+        .control-list {
+            li {
+                margin-bottom: 25px;
+                p {
+                    font-size: 15px;
+                }
+            }
+        }
+    }
+
+    /*
+    Goal Warp Style
+    ======================================================*/
+    .goal-card {
+        padding: 25px;
+        .icon {
+            width: 80px;
+            height: 80px;
+            line-height: 88px;
+            font-size: 40px;
+            margin-bottom: 12px;
+        }
+        h3 {
+            font-size: 18px;
+            margin-bottom: 15px;
+        }
+        p {
+            font-size: 15px;
+        }
+    }
+
+    /*
+    Overview Warp Style
+    ======================================================*/
+    .overview-image {
+        position: relative;
+        margin-top: 10px;
+        text-align: center;
+        display: none;
+        margin-right: 60px;
+    }
+
+    /*
+    Simplify Warp Style
+    ======================================================*/
+    .simplify-image {
+        display: none;
+    }
+    .simplify-content {
+        .simplify-widget {
+            h6 {
+                font-size: 16px;
+            }
+        }
+    }
+
+    /*
+    Choose Warp Style
+    ======================================================*/
+    .inner-cp-warp {
+        .cp-card {
+            padding: 25px;
+            h5 {
+                font-size: 16px;
+                margin-bottom: 15px;
+            }
+            h1 {
+                font-size: 35px;
+            }
+            .cp-content {
+                margin-bottom: 22px;
+                padding-bottom: 22px;
+            }
+        }
+    }
+
+    /*
+    Productive Warp Style
+    ======================================================*/
+    .productive-image {
+        display: none;
+    }
+    .productive-content {
+        padding-left: 40px;
+        margin-right: 0;
+        h2 {
+            font-size: 32px;
+            line-height: 1.4;
+            margin-bottom: 18px;
+        }
+    }
+
+    /*
+    Black Hero Warp Style
+    ======================================================*/
+    .bh-content {
+        h1 {
+            font-size: 36px;
+            margin-right: 0;
+        }
+    }
+    .bh-image {
+        padding-left: 55px;
+    }
+
+    /*
+    Private Warp Style
+    ======================================================*/
+    .private-card {
+        padding: 30px;
+        h4 {
+            font-size: 18px;
+        }
+    }
+
+    /*
+    Improve Warp Style
+    ======================================================*/
+    .inner-improve-warp {
+        padding: 50px;
+        .improve-content {
+            padding-left: 0;
+        }
+    }
+
+    /*
+    Testimonial Warp Style
+    ======================================================*/
+    .testimonial-widget {
+        .testimonial-content {
+            p {
+                font-size: 16px;
+            }
+        }
+    }
+
+    /*
+    Analytics Warp Style
+    ======================================================*/
+    .inner-analytics-warp {
+        padding: 50px;
+    }
+
+    /*
+    Hero Style5 Warp Style
+    ======================================================*/
+    .hero-style5-content {
+        h1 {
+            font-size: 42px;
+        }
+    }
+
+    /*
+    Payment Warp Style
+    ======================================================*/
+    .payment-widget {
+        padding: 50px 40px;
+        .content {
+            max-width: 285px;
+        }
+        .payment {
+            width: 165px;
+        }
+    }
+
+
+    /*
+    Secure Warp Style
+    ======================================================*/
+    .secure-image {
+        padding-right: 40px;
+    }
+
+    /*
+    Business Warp Style
+    ======================================================*/
+    .inner-business-warp {
+        padding: {
+            left: 50px;
+            right: 50px;
+        };
+    }
+    .business-card {
+        padding: {
+            left: 22px;
+            right: 22px;
+        };
+        .content {
+            h3 {
+                font-size: 18px;
+            }
+        }
+    }
+
+    /*
+    Video Warp Style
+    ======================================================*/
+    .video-style5-warp {
+        padding-top: 390px;
+        padding-bottom: 280px;
+    }
+
+    /*
+    Profile Warp Style
+    ======================================================*/
+    .profile-content {
+        padding-right: 0;
+        .profile-widget {
+            margin-top: 20px;
+            p {
+                font-size: 15px;
+            }
+        }
+    }
+    .profile-image {
+        margin-left: 0;
+    }
+
+    /*
+    benefit Warp Style
+    ======================================================*/
+    .benefit-card {
+        padding: 25px;
+        .content {
+            max-width: 318px;
+            margin-right: 20px;
+        }
+    }
+
+    /*
+    Digital Warp Style
+    ======================================================*/
+    .inner-digital-warp {
+        padding: {
+            left: 40px;
+            right: 40px;
+        };
+        .digital-content {
+            margin-right: -60px;
+        }
+    }
+
+
+    /*
+    Hero Style6 Warp Style
+    ======================================================*/
+    .hero-style6-content {
+        h1 {
+            font-size: 32px;
+            span {
+                margin-right: 0;
+            }
+        }
+    }
+    .hero-style6-image {
+        .hero8 {
+            margin-right: 0;
+        }
+    }
+
+    /*
+    Different Warp Style
+    ======================================================*/
+    .different-warp {
+        .nav {
+            .nav-link {
+                .shape-content {
+                    .shape {
+                        position: relative;
+                        right: -15px;
+                        max-width: 230px;
+                    }
+                }
+            }
+        }
+    }
+    .different-content {
+        padding-left: 0;
+        h3 {
+            margin-bottom: 15px;
+        }
+    }
+
+
+    .value-content {
+        margin-left: -20px;
+        h2 {
+            font-size: 28px;
+            margin-bottom: 10px;
+        }
+        .value-list {
+            margin-top: 20px;
+            li {
+                margin-bottom: 20px;
+                padding-left: 85px;
+                p {
+                    font-size: 15px;
+                }
+            }
+        }
+    }
+   
+
+
+
+
+
+
+
+
+}
+
+/* Min width 1400px to Max width 1499px */
+@media only screen and (min-width: 1400px) and (max-width: 1799px) {
+
+    /*
+    Container Style
+    ======================================================*/
+    .container-fluid {
+        max-width: 1320px;
+        &.style3 {
+            max-width: 1320px;
+        }
+        &.style4 {
+            max-width: 1320px;
+        }
+        &.style6 {
+            max-width: 1320px;
+        }
+    }
+
+    .responsive-image {
+        display: block;
+    }
+    .hero-style1-image {
+        display: none;
+    }
+    .supervise-image {
+        display: none;
+    }
+    .most-image {
+        display: none;
+    }
+    .solution-image {
+        display: none;
+    }
+    .additional-image {
+        display: none;
+    }
+
+    .vision-image {
+        .vision-shape1 {
+            right: 0;
+        }
+    }
+    .hero-style2-warp {
+        .hero-style-main {
+            max-width: 600px;
+        }
+        .all-shapes {
+            .hero-shape2-1 {
+                display: none;
+            }
+        }
+    }
+
+    .control-image {
+        display: none;
+    }
+    .overview-image {
+        display: none;
+    }
+    .simplify-image {
+        display: none;
+    }
+    .productive-image {
+        display: none;
+    }
+
+    .bh-content {
+        h1 {
+            font-size: 52px;
+        }
+    }
+
+
+    .hero-style6-content {
+        h1 {
+            font-size: 45px;
+        }
+        p {
+            font-size: 15px;
+        }
+    }
+
+
+}
